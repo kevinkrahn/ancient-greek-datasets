@@ -1,0 +1,990 @@
+Ἡ Ἑλλὰς καλή.
+Greece is beautiful.
+πῶς γὰρ ἂν τολμῷμεν ἔξαρνοι εἶναι τὸ καλὸν μὴ καλὸν εἶναι;
+For how could we dare to deny that the beautiful thing is beautiful?
+0.25
+
+ἀληθέστατα εἶπες.
+What you said is very true.
+ἀληθῆ λέγεις, ὦ Σώκρατες
+What you say is true, Socrates
+0.67
+
+τὸ πρόβατον ἐσθίεται ὑπὸ τοῦ λέοντος.
+The sheep is being eaten by the lion.
+ὁ λέων ἐσθιει τὸ πρόβατον
+The lion is eating the sheep.
+0.95
+
+Ῥώμουλος εἶδεν ἓξ οἰωνοὺς ὄρνιθας.
+Romulus saw six birds of omen.
+ἐθεώρησεν Ῥῆμος ἓξ γύπας.
+Remus observed six vultures.
+0.67
+
+Σωκράτης εἶδεν ἓξ βόας
+Socrates saw six cows.
+Ῥώμουλος εἶδεν ἓξ οἰωνοὺς ὄρνιθας.
+Romulus saw six birds of omen.
+0.14
+
+ὁ ἀνήρ μάλα κάμνει, καὶ θέλει καθεύδειν ἑν τῂ κλίνῃ.
+The man is very weary, and wants to sleep in his bed.
+νυστάζει καὶ θέλει κοιμηθῆναι ἐν τῇ κλίνῃ αὐτοῦ
+He is drowsy, and wants to sleep in his bed.
+0.95
+
+Δὸς μοι τὸ ξίφος
+Give me the sword
+παράδος μοι τὴν μάχαιραν
+Hand over the sword to me
+0.96
+
+ἐξαπεστάλη ὁ ἀνθρωποκτόνος εἰς φυλακήν.
+The murderer was sent to jail.
+ὁ οὖν φονεὺς ἐβλήθη εἰς τὸ δεσμοτήριον
+Therefore, the murderer was cast into prison.
+0.91
+
+ὁ φονεὺς ἐβλήθη εἰς τὸ δεσμοτήριον.
+The murderer was cast into prison.
+ὁ φονεὺς ἐλύθη ἐκ τοῦ δεσμοτηρίου.
+The murderer was released from prison.
+0.32
+
+τὸ ἔργον ἐν τῷ ἀγρῷ μακρὸν καὶ χαλεπόν ἐστιν.
+The work in the field is long and hard.
+ἡ ἐργασία ἡ ἐν τῇ γεωργίᾳ μακρὰ καὶ δυσκόλη ἐστίν.
+The labor in the farmland is long and difficult.
+0.63
+
+ἀναβλέψας, ὁ ἁλιεὺς εἶδεν πλοῖον ἀπὸ μακρόθεν.
+Looking up, the fisherman saw a boat from far away.
+ὁ ἁλιεὺς ἀνέβλεψεν καὶ ἐθεάσατο ναῦν μακρὰν.
+The fisherman looked up and observed a ship far away.
+0.89
+
+ἀναβλέψας, ὁ ἁλιεὺς εἶδεν πλοῖον ἀπὸ μακρόθεν.
+Looking up, the fisherman saw a boat from far away.
+καταβλέψας ἐπῖ τὰ ὕδατα, ὁ ἁλιεὺς εἶδεν ἰχθῦν.
+Looking down at the water, the fisherman saw a fish.
+0.34
+
+Θησεὺς ἀπέφυγε τὸν λαβύρινθον.
+Theseus escaped the labyrinth.
+εἰσῆλθεν Θησεὺς εἰς τὸν λαβύρινθον καὶ ἀπέκτεινε τὸν Μινώταυρον.
+Theseus entered the labyrinth and killed the Minotaur.
+0.4
+
+εἰσῆλθεν Θησεὺς εἰς τὸν λαβύρινθον καὶ ἀπέκτεινε τὸν Μινώταυρον.
+Theseus entered the labyrinth and killed the Minotaur.
+Θησεὺς περιεπάτησεν εἰς τὸν λαβύρινθον καὶ ἐμαχέσατο τῷ θηρίῳ τῷ φοβερῷ.
+Theseus walked into the labyrinth and fought the fearsome beast.
+0.68
+
+ὁ δοῦλος ἐπόνησεν ἐν τῷ ἐργαστηρίῳ τοῦ δεσπότου.
+The slave toiled in the master's workshop.
+ὁ διάκονος ἠργάσατο ἐν τῷ οἴκῳ τοῦ δεσπότου αὐτοῦ.
+The servant worked in the house of his master.
+0.68
+
+ὁ ἄνθρωπος ἀπέκτεινεν τὸν λέοντα.
+The man killed the lion.
+ὁ ἄνθρωπος ἀπέκτεινεν τὸν λίθον.
+The man killed the stone.
+0.36
+
+ὁ ἄνθρωπος ὁ πτώχος ἔφαγεν τὸν καρπόν.
+The poor man ate the fruit.
+ὁ χοῖρος νεκρός ἐστιν.
+The pig is dead.
+0.0
+
+ὁ χοῖρος νεκρός ἐστιν.
+The pig is dead.
+ὁ χοῖρος ἔφαγεν καρπόν.
+The pig ate a fruit.
+0.25
+
+Τελευτήσαντος τοῦ Ἡρῴδου, παῖς ἤρξατο εὐφραίνεσθαι.
+After the death of Herod, a boy began to celebrate.
+ὅτε ἀπέθανεν ὀ Ἡρῴδης, νεανίσκος ἐχάρησεν χαρὰν μεγάλην
+When Herod died, a young man rejoiced greatly.
+0.84
+
+Μακάριοι οἱ πτωχοὶ τῷ πνεύματι
+Blessed are the poor in spirit.
+Μακάριοι οἱ νεκροὶ, οἳ ἐν Κυρίῳ ἀποθνήσκοντες.
+Blessed are the dead, who die in the Lord.
+0.32
+
+βασιλεύσει κύριος εἰς τὸν αἰῶνα.
+The Lord will reign forever.
+Ἐγένετο ἡ βασιλεία τοῦ κόσμου, τοῦ κυρίου ἡμῶν, καὶ τοῦ χριστοῦ αὐτοῦ, καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων.
+The kingdom of this world has become the kingdom of our Lord and of His Christ, and He shall reign forever and ever.
+0.81
+
+Ἰησοῦς χριστὸς εχθὲς καὶ σήμερον ὁ αὐτός, καὶ εἰς τοὺς αἰῶνας.
+Jesus Christ is the same yesterday, today, and forever.
+δότε τὰ ἀργύρια τοῖς πτωχοῖς.
+Give the money to the poor.
+0.0
+
+ὁ μισῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῇ σκοτίᾳ ἐστὶν καὶ ἐν τῇ σκοτίᾳ περιπατεῖ.
+The one who hates his brother is in darkness and walks in darkness.
+Ὁ λέγων ἐν τῷ φωτὶ εἶναι καὶ τὸν ἀδελφὸν αὐτοῦ μισῶν ἐν τῇ σκοτίᾳ ἐστὶν ἕως ἄρτι.
+The one who says he is in the light but hates his brother is in darkness until now.
+0.74
+
+ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν.
+Love your enemies.
+Ἀγαπήσεις τὸν πλησίον σου, καὶ μισήσεις τὸν ἐχθρόν σου·
+You shall love your neighbor and hate your enemy.
+0.44
+
+Καὶ ἔφαγον πάντες, καὶ ἐχορτάσθησαν·
+So they all ate and were filled.
+καὶ ἐποίησεν αὐτοῖς δοχήν, καὶ ἔφαγον καὶ ἔπιον.
+And he made a feast for them, and they ate and drank.
+0.62
+
+αὕτη ἐστὶν ἡ ὁδὸς τῆς ζωῆς.
+This is the way of life.
+οὐ γάρ ἐστιν προσωπολημψία παρὰ τῷ θεῷ.
+For there is no partiality with God.
+0.13
+
+ὅτι λύχνος ἐντολὴ νόμου, καὶ φῶς ὁδὸς ζωῆς καὶ ἔλεγχος καὶ παιδεία
+For the commandment of the law is a lamp and a light; a way of life; reproof also and correction
+τί ἀποκρινῇ;
+What would you reply?
+0.06
+
+ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ
+When the thousand years have expired, Satan will be released from his prison
+καὶ εἰ ἔζησεν χιλίων ἐτῶν καθόδους, καὶ ἀγαθωσύνην οὐκ εἶδεν, μὴ οὐκ εἰς τόπον ἕνα πορεύεται;
+Though he has lived to the return of a thousand years, yet he has seen no good: do not all go to one place?
+0.23
+
+ὅτι χίλια ἔτη ἐν ὀφθαλμοῖς θεοῦ ὡς ἡμέρα ἡ ἐχθές, ἥτις διῆλθε, καὶ φυλακὴ ἐν νυκτί.
+Because a thousand years in God's eyes are like yesterday, which has passed, and like a watch in the night.
+μία ἡμέρα παρὰ κυρίῳ ὡς χίλια ἔτη καὶ χίλια ἔτη ὡς ἡμέρα μία.
+One day with God is like a thousand years, and a thousand years are like one day.
+0.58
+
+πιστεύω εἰς θεόν πατέρα παντοκράτορα.
+I believe in God the Father Almighty.
+Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός.
+I am the Good Shepherd.
+0.17
+
+ἐπὶ δὲ τοῦ ὄρους τῇ ἄκρᾳ Διός ἐστιν ναός.
+On the top of the mountain is a temple of Zeus.
+ὁ Ζεὺς οἰκεῖ ἐπὶ τὰ ὄρη ἐν Ὀλύμπῳ.
+Zeus dwells on the mountains in Olympus.
+0.7
+
+ἐν τούτῳ τῷ ἱερῷ καὶ Ἀθηνᾶς ἄγαλμα ἕστηκε.
+In this sanctuary there also stands a statue of Athena.
+ἐπὶ δὲ τοῦ ὄρους τῇ ἄκρᾳ Διός ἐστιν ναός.
+On the top of the mountain is a temple of Zeus.
+0.22
+
+ἐπὶ δὲ τοῦ ὄρους τῇ ἄκρᾳ Διός ἐστιν ναός.
+On the top of the mountain is a temple of Zeus.
+εἶπεν ὁ λαὸς πρὸς Ἰησοῦν· Οὐχί, ἀλλὰ Κυρίῳ λατρεύσομεν.
+The people said to Joshua: No, but we will serve the Lord.
+0.06
+
+οἱ Στωικοὶ ἀποφαίνονται σφαιροειδῆ τὸν κόσμον.
+The Stoics declare the world to be spherical.
+Στωικὸς νομίζει ὅτι ἡ γῆ σφαῖρα ἐστιν.
+A Stoic thinks that the earth is a sphere.
+0.91
+
+Ἀριστοτέλης ἐστιν φιλόσοφος.
+Aristotle is a philosopher.
+νομίζω Στωικόν φιλόσοφον εἶναι.
+I consider a Stoic to be a philosopher.
+0.41
+
+Ὁ Θωμᾶς κάκιστος γεωργός ἐστιν.
+Thomas is a terrible farmer.
+Ὁ Ἰάκωβος καλῶς γράφει.
+James writes well.
+0.0
+
+Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν.
+The first man Adam became a living being.
+Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὔα·
+For Adam was formed first, then Eve.
+0.54
+
+Ἀδὰμ οὐκ ἠπατήθη
+Adam was not decieved
+Τί ποιήσωμεν σήμερον, ἀδελφοί;
+What should we do today, brothers?
+0.01
+
+Τί ποιήσωμεν σήμερον, ἀδελφοί;
+What should we do today, brothers?
+τί οὖν ἂν ποιοῖμεν νῦν, ἀδελφαί;
+Then what can we do now, sisters?
+0.29
+
+Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
+In the beginning God made the heaven and the earth.
+ἀπ̓' ἀρχῆς ἔκτισεν κύριος τὸν κόσμον.
+In the beginning the Lord created the world.
+0.64
+
+Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὔα·
+For Adam was formed first, then Eve.
+ὁ θεὸς εὖ συνέστησεν αὐτῆς τὴν ὁδόν, αὐτὸς δὲ οἶδεν τὸν τόπον αὐτῆς.
+God has well ordered the way of it, and he knows the place of it.
+0.12
+
+Ὅτι τρεῖς εἰσὶν οἱ μαρτυροῦντες ἐν τῷ οὐρανῷ, ὁ πατήρ, ὁ λόγος, καὶ τὸ ἅγιον Πνεῦμα· καὶ οὗτοι οἱ τρεῖς ἕν εἰσι.
+For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one.
+ἐν οὐρανῷ ἐστιν κατοικητήριον τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, καὶ οὗτοι ἕν εἰσι.
+In heaven is the dwelling place of the Father and the Son and the Holy Spirit, and they are one.
+0.63
+
+Ἀθῆναι ἦν ὁ τόπος τῆς φιλοσοφίας.
+Athens was the place of philosophy.
+ἡ πόλις Ἀθηνῶν ἦν ὁ οἶκος τῶν φιλοσόφων.
+The city of Athens was the home of the philosophers.
+0.99
+
+μακάριοι οἱ σπείροντες ἐπὶ πᾶν ὕδωρ, οὗ βοῦς καὶ ὄνος πατεῖ.
+Blessed are they that sow by every water, where the ox and ass tread.
+καὶ ἐπιβιβᾷς εἰς θάλασσαν τούς ἵππους σου ταράσσοντας ὕδωρ πολύ.
+And you do cause your horses to enter the sea, disturbing much water.
+0.18
+
+Ἀθῆναι ἦν ὁ τόπος τῆς φιλοσοφίας.
+Athens was the place of philosophy.
+Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὔα·
+For Adam was formed first, then Eve.
+0.01
+
+δεκτὰ ὑμῖν ἄμωμα ἄρσενα ἐκ τῶν βουκολίων καὶ ἐκ τῶν προβάτων καὶ ἐκ τῶν αἰγῶν.
+your free will offerings shall be males without blemish of the herds, or of the sheep, or of the goats.
+οὔκουν τὸ Βάρος τοῦθ᾽ ὃ σὺ φέρεις ὄνος φέρει;
+This weight you carry, the donkey carries?
+0.0
+
+ἵνα ἡμᾶς περιποιήσῃ, κύριος ὢν καὶ ἀληθῶς ποιμὴν ἀγαθός.
+That you might preserve us, you are Lord and truly the Good Shepherd.
+Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός· ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν ὑπὲρ τῶν προβάτων.
+I am the Good Shepherd. The good shepherd gives his life for the sheep.
+0.33
+
+ὁ Παῦλος ἐπὶ τοῦ Καίσαρος ἀπεκεφαλίσθη.
+Paul was beheaded under Caesar.
+Καῖσαρ ἀπεκεφάλισεν τὸν Παῦλον.
+Caesar beheaded Paul.
+0.99
+
+ὁ Παῦλος ἦν μάρτυς ὑπὲρ τοῦ Χριστοῦ.
+Paul was a witness for Christ.
+Μακάριοι οἱ πτωχοὶ τῷ πνεύματι.
+Blessed are the poor in spirit.
+0.02
+
+Ῥωμαίων ἡ πόλις οὐκ ᾠκοδομήθη ἐν μιᾷ ἡμέρᾳ.
+The city of Rome was not built in a day.
+Ῥώμη οὐκ ἐγένετο ἐν ἡμέρᾳ μιᾷ.
+Rome was not made in a day.
+0.93
+
+Πλὴν λέγω ὑμῖν, Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως, ἢ ὑμῖν.
+But I say to you, it will be more tolerable for Tyre and Sidon in the day of judgment than for you.
+Καῖσαρ ἀπεκεφάλισεν τὸν Παῦλον.
+Caesar beheaded Paul.
+0.0
+
+ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου.
+Because my eyes have seen your salvation.
+καὶ εἶπεν αὐτοῖς Τοῦτό ἐστιν τὸ αἷμά μου τῆς διαθήκης τὸ ἐκχυννόμενον ὑπὲρ πολλῶν.
+And he said to them: This is my blood of the covenant, which is poured out for many.
+0.27
+
+καὶ κατέβη κύριος ἰδεῖν τὴν πόλιν καὶ τὸν πύργον οἱ υἱοὶ τῶν ἀνθρώπων.
+And the Lord descended to see the city and the tower that the sons of men had built.
+ὁ δὲ κύριός μοι παρέστη καὶ ἐνεδυνάμωσέν με, ἵνα δι’ ἐμοῦ τὸ κήρυγμα πληροφορηθῇ καὶ ἀκούσωσιν πάντα τὰ ἔθνη, καὶ ἐρύσθην ἐκ στόματος λέοντος
+And my Lord stood by me and strengthened me, that I might preach the word, and all the Gentiles might hear, and I might be delivered out of the mouth of the lion.
+0.23
+
+Εἶπεν δὲ αὐτοῖς ὁ Ἰησοῦς, Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς.
+And Jesus said, I am the bread of life.
+Ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.
+For the bread of God is He who comes down from heaven and gives life to the world.
+0.48
+
+Ἄρτον ζωῆς ὅν οἱ ἐσθίοντες ἄφθαρτοι διαμείνωσιν
+Bread of life, the which who eat abide incorruptible
+ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου.
+Because my eyes have seen your salvation.
+0.1
+
+Πέτρος ἐτηρεῖτο ἐν τῇ φυλακῇ.
+Peter was kept in prison.
+ἔβαλεν Πέτρον εἰς τὴν ἐσωτέραν φυλακήν.
+He put Peter into the inner prison.
+0.69
+
+καὶ ἐγένετο φωνὴ πρὸς αὐτόν· ἀναστάς, Πέτρε, θῦσον καὶ φάγε.
+And a voice came to him: Get up, Peter, kill and eat.
+Τοῦ Πέτρου διενθυμουμένου περὶ τοῦ ὁράματος εἶπεν αὐτῷ τὸ πνεῦμα· ἰδοὺ ἄνδρες τρεῖς ζητοῦντές σε.
+While Peter was pondering the vision, the Spirit said to him: "Behold, three men are looking for you."
+0.17
+
+ὁ γὰρ βασιλεὺς θυγατέρα μονογενῆ ἔχει, καὶ νῦν αὐτὴν ἐκδίδωσιν ἀνδρὶ πρὸς γάμον·
+For the king has an only daughter, and now he gives her in marriage to a husband.
+ἐμαρτυρήθη μεγάλως Ἀβραὰμ καὶ φίλος προσηγορεύθη τοῦ θεοῦ.
+Great fame was given to Abraham, and he was called the Friend of God.
+0.04
+
+καὶ λέγει ἀτενίζων εἰς τὴν δόξαν τοῦ θεοῦ ταπεινοφρονῶν: Ἐγὼ δέ εἰμι γῆ καὶ σποδός.
+And he, fixing his gaze in humility on the Glory of God, says: But I am dust and ashes.
+διὸ ἐφαύλισα ἐμαυτὸν καὶ ἐτάκην· ἥγημαι δὲ ἐγὼ ἐμαυτὸν γῆν καὶ σποδόν.
+Therefore I have considered myself vile, and have fainted: and I esteem myself dust and ashes.
+0.5
+
+ἀπὸ καρποῦ τοῦ ξύλου ὅ ἐστιν ἐν μέσῳ τοῦ παραδείσου, εἶπεν ὁ θεός Οὐ φάγεσθε ἀπ᾽ αὐτοῦ οὐδὲ μὴ ἅψησθε αὐτοῦ, ἵνα μὴ ἀποθάνητε.
+From the fruit of the tree which is in the middle of the garden, God said, You shall not eat of it, neither shall you touch it, lest you die.
+νῦν οὖν, υἱέ, ἄκουέ μου, καὶ πρόσεχε ῥήμασιν στόματός μου.
+Now then, my son, listen to me, and attend to the words of my mouth.
+0.12
+
+πάντοτε μανθάνοντα, καὶ μηδέποτε εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν δυνάμενα.
+always learning and never able to come to the knowledge of the truth.
+πότερον καὶ ὁ ἄνθρωπος ἓν τῶν ζῴων ἐστὶν ἢ οὔ;
+is man also one of the animals, or not?
+0.0
+
+εἶπεν δὲ κύριος πρὸς Μωυσῆν
+Then the Lord said to Moses
+καὶ ἐλάλησεν ὁ θεὸς τῷ Μωυσῆ
+And God spoke to Moses
+0.84
+
+μακάριος ἀνήρ ὃς οὐκ ἐπορεύθη ἐν βουλῇ ἀσεβῶν.
+Blessed is the man who has not walked in the counsel of the wicked.
+μακάριοι οἱ ἄνθρωποι οἳ ἐν ὁδῷ ἁμαρτωλῶν οὐκ ἔστησαν.
+Blessed are the people who have not stood in the way of sinners.
+0.65
+
+καὶ ἐποίησεν τὸ πονηρὸν ἐνώπιον κυρίου
+And he did evil in the sight of the Lord
+Ἀριστοτέλης ἐστιν φιλόσοφος.
+Aristotle is a philosopher.
+0.0
+
+οὐκ οἶδα.
+I don't know.
+Ἐγώ οὑ γινώσκω.
+I do not know.
+0.99
+
+οἱ ἰχθύες οἱ ἐν τῷ ποταμῷ ἐτελεύτησαν, καὶ ἐπώζεσεν ὁ ποταμός.
+The fish in the river died, and the river stank.
+Εἶπεν δὲ αὐτοῖς ὁ Ἰησοῦς, Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς
+And Jesus said, I am the bread of life.
+0.0
+
+ὁ βασιλεὺς ἐνετείλατο τοῖς στρατιώταις αὐτοῦ.
+The king commanded his soldiers.
+ὁ βασιλεὺς παρήγγειλεν τῷ στρατεύματι αὐτοῦ.
+The king commanded his army.
+0.86
+
+ὁ βασιλεὺς ἐνετείλατο τοῖς στρατιώταις αὐτοῦ.
+The king commanded his soldiers.
+καὶ ἐποίησεν τὸ πονηρὸν ἐνώπιον κυρίου
+And he did evil in the sight of the Lord
+0.09
+
+Εὐχαριστῶ τῷ θεῷ μου, πάντων ὑμῶν μᾶλλον γλώσσαις λαλῶν
+I thank my God I speak with tongues more than you all
+ἐμαρτυρήθη μεγάλως Ἀβραὰμ καὶ φίλος προσηγορεύθη τοῦ θεοῦ.
+Great fame was given to Abraham, and he was called the Friend of God.
+0.06
+
+μακάριος ἀνήρ ὃς οὐκ ἐπορεύθη ἐν βουλῇ ἀσεβῶν.
+Blessed is the man who has not walked in the counsel of the wicked.
+οἱ ἰχθύες οἱ ἐν τῷ ποταμῷ ἐτελεύτησαν, καὶ ἐπώζεσεν ὁ ποταμός.
+The fish in the river died, and the river stank.
+0.0
+
+ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου.
+Because my eyes have seen your salvation.
+Εἶπεν αὐτοῖς ὁ Ἰησοῦς, Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς
+Jesus said, I am the bread of life.
+0.25
+
+ὁ σοφὸς ἐνδεικνύσθω τὴν σοφίαν αὐτοῦ μὴ ἐν λόγοις, ἀλλ̓ ἐν ἔργοις ἀγαθοῖς
+let the wise manifest his wisdom not in words but in good deeds
+ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου.
+Because my eyes have seen your salvation.
+0.23
+
+ὁ σοφὸς ἐνδεικνύσθω τὴν σοφίαν αὐτοῦ μὴ ἐν λόγοις, ἀλλὰ ἐν ἔργοις ἀγαθοῖς
+Let the wise manifest his wisdom not in words but in good deeds
+ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἶναι, κοινωνικούς
+Let them do good, that they be rich in good works, ready to give, willing to share
+0.51
+
+ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἶναι, κοινωνικούς
+Let them do good, that they be rich in good works, ready to give, willing to share
+Εὐχαριστῶ τῷ θεῷ μου, πάντων ὑμῶν μᾶλλον γλώσσαις λαλῶν
+I thank my God I speak with tongues more than you all
+0.03
+
+ἔδωκεν αὐτῷ τὸ διάδημα καὶ τὴν στολὴν αὐτοῦ καὶ τὸν δακτύλιον, τοῦ ἀγαγεῖν Ἀντίοχον τὸν υἱὸν αὐτοῦ καὶ ἐκθρέψαι αὐτὸν τοῦ βασιλεύειν.
+He gave him the crown, and his robe, and his signet, to the end he should bring up his son Antiochus, and nourish him up for the kingdom.
+Ἀπεκρίθη Ἰησοῦς, Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.
+Jesus answered, "Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.
+0.2
+
+ἔδωκεν αὐτῷ τὸ διάδημα καὶ τὴν στολὴν αὐτοῦ καὶ τὸν δακτύλιον
+He gave him the crown, and his robe, and his signet
+συνήγαγον ἀργύριον καθὰ ἑκάστου ἠδύνατο ἡ χείρ.
+They made a collection of money according to every man's ability.
+0.1
+
+Ἰησοῦς τῷ ἱερῷ διδάσκων ἦν
+Jesus was teaching in the temple
+Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου.
+Our Father in heaven, hallowed be your name.
+0.16
+
+ὁ Ἀλέξανδρος ὠργίσθη, καὶ δραξάμενος αὐτοῦ τῶν τριχῶν σφόδρα ταῖς χερσὶν ἀμφοτέραις ἔπαισε τὴν κεφαλὴν πρὸς τὸν τοῖχον.
+Alexander was enraged, and clutching him fiercely by the hair with both hands dashed his head against the wall.
+ὀργὴ καὶ ἀναίδεια καὶ αἰσχύνη μεγάλη γυνὴ ἐὰν ἐπιχορηγῇ τῷ ἀνδρὶ αὐτῆς.
+A woman, if she maintain her husband, is full of anger, impudence, and much reproach.
+0.18
+
+τούτου ὄπισθεν τοῦ ναοῦ δένδρων ἐστὶν ἄλσος οὐ μέγα, θριγκῷ περιεχόμενον.
+Behind this temple is a small grove of trees surrounded by a wall.
+Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου.
+The salutation with my own hand, Paul's.
+0.03
+
+Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν.
+And I saw the new heaven and the new earth.
+ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθον.
+For the first heaven and the first earth had passed away.
+0.57
+
+Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν.
+And I saw the new heaven and the new earth.
+Ἔσται γὰρ ὁ οὐρανὸς καινὸς καὶ ἡ γῆ καινή, καὶ οὐ μὴ μνησθῶσιν τῶν προτέρων.
+For there shall be a new heaven and a new earth: and they shall not at all remember the former.
+0.5
+
+Νῦν ὁ ἥλιος φαίνει.
+The sun is shining now.
+ἐν πταρμῷ αὐτοῦ ἐπιφαύσκεται φέγγος, οἱ δὲ ὀφθαλμοὶ αὐτοῦ εἶδος ἑωσφόρου.
+At his sneezing a light shines, and his eyes are as the appearance of the morning star.
+0.38
+
+Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν.
+And I saw the new heaven and the new earth.
+Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου.
+The salutation with my own hand, Paul's.
+0.11
+
+Ἔρχου, ἄνοιγε τὴν θύραν.
+Come, open the door.
+Ἔρχου, ἄνοιξον τὴν θυρίδα.
+Come, open the window.
+0.38
+
+ἔθετο αὐτοὺς ἐν φυλακῇ ἡμέρας τρεῖς.
+He put them in prison three days.
+ἔβαλεν αὐτόν εἰς τὴν ἐσωτέραν φυλακήν ἡμέρας δύο.
+He put him into the inner prison two days.
+0.47
+
+ἔθετο αὐτοὺς ἐν φυλακῇ ἡμέρας τρεῖς.
+He put them in prison three days.
+Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν.
+And I saw the new heaven and the new earth.
+0.0
+
+ὁ λέων ἐσθιει τὸ πρόβατον
+The lion is eating the sheep.
+Ἔρχου, ἄνοιγε τὴν θύραν.
+Come, open the door.
+0.0
+
+ὁ ἥλιος φαίνει ἐν οὐρανῷ.
+The sun shines in the sky.
+ὁ Ἀλέξανδρος ἦν Ἕλλην.
+Alexander was a Greek.
+0.01
+
+οὐχ ηὕρισκον ὕδωρ ὥστε πιεῖν.
+They found no water to drink.
+οἱ μὲν λόγοι καλοί, τὰ δ’ ἔργα φαῦλα.
+His words are fine, his acts worthless.
+0.01
+
+ἐσταυρώθη ὁ Ἰησοῦς.
+Jesus was crucified.
+καὶ ἦν γεγραμμένον Ἑβραϊστί, Ἑλληνιστί, Ῥωμαϊστί.
+And it was written in Hebrew, Greek, and Latin.
+0.01
+
+Φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος.
+It is a fearful thing to fall into the hands of the living God.
+Ἔρχου, ἄνοιγε τὴν θύραν.
+Come, open the door.
+0.02
+
+Πέτρος ἀνέβη εἰς τὸ δῶμα.
+Peter went up to the housetop.
+Ἰωάννης ἐβάπτισεν βάπτισμα μετανοίας.
+John baptized the baptism of repentance.
+0.13
+
+καὶ ἦλθεν Ῥαγουὴλ εἰς τὴν οἰκίαν ἑαυτοῦ.
+And Raguel went into his own house.
+οὐχ ηὕρισκον ὕδωρ ὥστε πιεῖν.
+They found no water to drink.
+0.07
+
+Ὁ Πέτρος ἦν μαθητὴς τοῦ Ἰησοῦ.
+Peter was a disciple of Jesus.
+ὁ Ἡρῴδης ἀνεῖλεν Ἰάκωβον τὸν ἀδελφὸν Ἰωάννου μαχαίρᾳ.
+Then Herod killed James the brother of John with the sword.
+0.02
+
+τὸ τῆς ἰατρικῆς τέλος ὑγίειά ἐστιν.
+The goal of medicine is health.
+ἐνήστευσα οὖν μίαν ἡμέραν, καὶ αὐτῇ τῇ νυκτί μοι ὤφθη νεανίσκος καὶ λέγει μοι:
+So I fasted one day and in the same night a young man appeared to me and said to me,
+0.15
+
+Τί σὺ ὑπὸ χεῖρα αἰτεῖς ἀποκαλύψεις ἐν δεήσει; βλέπε, μήποτε πολλὰ αἰτούμενος βλάψῃς σου τὴν σάρκα.
+Why do you ask constantly for revelations in your prayer? Take care lest by your many requests you injure your flesh.
+Ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν· καὶ ὁ ἀπολέσας τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ εὑρήσει αὐτήν.
+He who finds his life will lose it, and he who loses his life for My sake will find it.
+0.22
+
+οὐ γεννηθήσεταί σοι υἱὸς οὐδὲ θυγάτηρ ἐν τῷ τόπῳ τούτῳ.
+There shall be no son born to you, nor daughter in this place.
+Ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν· καὶ ὁ ἀπολέσας τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ εὑρήσει αὐτήν.
+He who finds his life will lose it, and he who loses his life for My sake will find it.
+0.24
+
+ἐνήστευσα οὖν μίαν ἡμέραν, καὶ αὐτῇ τῇ νυκτί μοι ὤφθη νεανίσκος καὶ λέγει μοι:
+So I fasted one day and in the same night a young man appeared to me and said to me,
+οὐ γεννηθήσεταί σοι υἱὸς οὐδὲ θυγάτηρ ἐν τῷ τόπῳ τούτῳ.
+There shall be no son born to you, nor daughter in this place.
+0.15
+
+οὐ τέξεσθε υἱὸν οὐδὲ θυγατέρα ἐν τούτῳ τῷ τόπῳ
+You will not bear a son or daughter in this place.
+Οὐ τέξῃ υἱὸν ἢ θυγατέρα ἐν τῷ οἴκῳ τούτῳ κατοικοῦσα.
+You will not bear a son or a daughter while you dwell here.
+0.84
+
+Ἄπελθε, νίψαι σου τὰς χεῖρας ἐν τοῖς ὕδασι τούτοις.
+Go, wash your hands in these waters.
+Πάντα, φησί, κεκαθάρται
+Everything, he said, has been made clean.
+0.17
+
+Οἱ δὲ φάσκοντες ἀπὸ βαρβάρων ἄρξαι φιλοσοφίαν καὶ τὸν τρόπον παρ’ ἑκάστοις αὐτῆς ἐκτίθενται·
+But the advocates of the theory that philosophy took its rise among the barbarians go on to explain the different forms it assumed in different countries.
+γυναῖκες καὶ ἄνδρες κατίασιν ἐπὶ τὰ πλοῖα οἶνόν τε ἀποδόσθαι καὶ ἐκ τῶν βαρβάρων ἀντιληψόμενοι.
+Women and men came down to the ships to sell wine and trade with the barbarians.
+0.2
+
+Λέγουσιν οἱ ποιηταὶ τὸν ὕπνον ἀδελφὸν εἶναι τοῦ θανάτου.
+The poets say that sleep is the brother of death.
+Nῦν ἐπαινῶ σε ἐφʼ οἷς λέγεις τε καὶ πρᾱ́ττεις.
+Now I praise you for what you both say and do.
+0.05
+
+Πέτρος ἦλθεν εἰς τὴν οἰκίαν ἑαυτοῦ.
+Peter went into his own house.
+Σίμων ἀνέβη εἰς τὸ δῶμα.
+Simon went up to the rooftop.
+0.12
+
+Πέτρος ἦλθεν εἰς τὴν οἰκίαν ἑαυτοῦ.
+Peter went into his own house.
+τίνος χάριν εἰσῆλθεν εἰς τὴν οἰκίαν Πέτρου ὁ Κύριος;
+For whose sake did the Lord enter into Peter's house?
+0.38
+
+ὁ Ἰησοῦς εἰσῆλθεν εἰς τὴν οἰκίαν Σίμωνος.
+Jesus entered the house of Simon.
+ἦλθεν ὁ Ἰησοῦς εἰς τὸν οἶκον Πέτρου.
+Jesus went into the house of Peter.
+0.45
+
+θεὸς οὖν ὁ ἀνορθώσας τὴν οἱκουμένην ἐστίν.
+God, then, is the one who restores the world.
+ἔκτισεν ὁ θεὸς τὸν κόσμον.
+God created the world.
+0.48
+
+Καὶ ἰδοὺ ὥρμησε πᾶσα ἡ ἀγέλη τῶν χοίρων κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν.
+And behold, the whole herd of pigs rushed down the steep bank into the sea.
+οὐ τὰ πρόβατα βόσκουσιν οἱ ποιμένες.
+The shepherds do not feed the sheep.
+0.05
+
+οἱ δὲ ἐξελθόντες ἀπῆλθαν εἰς τοὺς χοίρους· καὶ ἰδοὺ ὥρμησεν πᾶσα ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν, καὶ ἀπέθανον ἐν τοῖς ὕδασιν.
+And those that came out went into the herd of pigs; and behold, the whole herd of pigs rushed down the steep bank into the sea and perished in the waters.
+καὶ τοῦτο ποιήσαντες συνέκλεισαν πλῆθος ἰχθύων πολύ, διερήσσετο δὲ τὰ δίκτυα αὐτῶν.
+And they caught a great number of fish, and their nets were breaking.
+0.12
+
+Ἡ χεῖρ μου καὶ ποδεῖς μου μεγάλοι εἰσίν.
+My hands and feet are big.
+ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.
+At my right, until I place your enemies as a footstool for your feet.
+0.25
+
+Ἡ χεῖρ μου καὶ ποδεῖς μου μεγάλοι εἰσίν.
+My hands and feet are big.
+παγίδας ἡτοίμασαν τοῖς ποσίν μου, καὶ κατέκαμψαν τὴν ψυχήν μου· ὤρυξαν πρὸ προσώπου μου βόθρον, καὶ ἐνέπεσαν εἰς αὐτόν.
+They have prepared a net for my steps; my soul is bowed down; they have dug a pit before me; into the midst of it they themselves have fallen.
+0.15
+
+Τὰ παιδία βαπτίζεται εἰς ἄφεσιν ἁμαρτημάτων.
+Children are baptized for the forgiveness of sins.
+Ἀφίενται μὲν αἱ ἀνομίαι διὰ τοῦ ἁγίου βαπτίσματος, καλύπτονται δὲ αἱ ἀμαρτίαι διὰ τῆς πικρᾶς ἁμαρτίας μετανοίας.
+The sins are forgiven through holy baptism, but the sins are covered by repentance from bitter sins.
+0.66
+
+Τὰ παιδία βαπτίζεται εἰς ἄφεσιν ἁμαρτημάτων.
+Children are baptized for the forgiveness of sins.
+Προαναφωνεῖ ὁ προφήτης τὴν νῦν δοθεῖσαν υἱοθεσίαν διὰ τῆς πίστεως καὶ τοῦ λουτροῦ.
+The prophet announces the present adoption through faith and washing.
+0.19
+
+ὁ Ἰησοῦς ἐθεράπευσεν τὸν ἀσθενῆ ἄνδρα.
+Jesus healed the sick man.
+ὁ Χριστὸς ἰάσατο τόν ἀσθενοῦντα.
+Christ healed the one who was sick.
+0.93
+
+ὁ Ἰησοῦς ἐθεράπευσεν τὸν ἀσθενῆ ἄνδρα.
+Jesus healed the sick man.
+ὁ Ἰησοῦς ἀπήλθεν ἀπό τού ἀσθενοῦντος.
+Jesus went away from the one who was sick.
+0.63
+
+θέλει ὁ βασιλεὺς ἐχειν τόν θησαυρόν.
+The king wants to have the treasure.
+βούλεται ὀ ἄρχων ἐχειν τήν γάζαν.
+The ruler desires to have the treasure.
+0.91
+
+ἐπιβάλλομαι στολήν μου.
+I am putting on my robe.
+ἐνδύομαι ἐσθητα.
+I am putting on my clothes.
+0.63
+
+ἐπιβάλλομαι στολήν.
+I am putting on a robe.
+δότε τούς χιτῶνας τοῖς πτωχοῖς
+Give the tunics to the poor
+0.15
+
+οἰ ἀδελφοί μου βλέπουσιν με.
+My brothers are watching me.
+ὀ πατήρ μου ἀπεδήμησεν.
+My father went on a journey.
+0.06
+
+Σωκράτης ἐστιν φιλόσοφος.
+Socrates is a philosopher.
+Ὁ Θωμᾶς κάκιστος γεωργός ἐστιν.
+Thomas is a terrible farmer.
+0.0
+
+Ἄπελθε, νίψαι σου τὰς χεῖρας ἐν τοῖς ὕδασι τούτοις.
+Go, wash your hands in these waters.
+Ὑπαγε, καί απονίψαι τάς χεῖρας σου ἐν τῷ ποταμῷ.
+Go and wash your hands in the river.
+0.8
+
+Οὐ βούλομαι πορεύεσθαι εἰς τὸ διδασκαλεῖον.
+I don't want to go to school.
+Οὐ θέλω ἀναγνῶναι τὸ βιβλίον.
+I don't want to read the book.
+0.08
+
+Οὐκ ἀνέγνωτε τί ἐποίησεν ὁ Δαυεὶδ;
+Didn't you read what David did?
+οὐκ ἀνέγνωτε ἐν τῷ νόμῳ;
+Have you not read in the law?
+0.27
+
+οὐκ ἀνέγνωτε ἐν τῷ νόμῳ;
+Have you not read in the law?
+Οὐ θέλω ἀναγνῶναι τὸ βιβλίον.
+I don't want to read the book.
+0.09
+
+ὁ δράκων ἀπέκτεινεν τὸν ἄνθρωπον τῳ πυρί.
+The dragon killed the man with fire.
+ἀπέθανεν θηρίον ἐν τῷ πυρί, καὶ δράκων οὐκ ἦν ἐκεῖ.
+An animal died in the fire, and there was no dragon there.
+0.26
+
+ὁ πατὴρ ἔκλαυσεν ὅτι ὁ υἱὸς αὐτοῦ ἀπέθανεν.
+The father wept because his son had died.
+ἐλυπήθη ὁ πατὴρ ὅτι ὁ υἱὸς αὐτοῦ ἐφονεύθη.
+The father grieved because his son had been killed.
+0.86
+
+ὁ θηρευτὴς εἶδεν ἄρκον καθεύδοντα ὑπὸ δένδρον.
+The hunter saw a bear sleeping under a tree.
+ὁ ἀνθοπώλης εἶδεν κάμηλον δεδεμένον πρὸς δένδρον.
+The merchant saw a camel tied to a tree.
+0.24
+
+Τὰ παιδία παίζουσιν ἐν τῇ ἀμμουδιᾷ.
+The children are playing in the sand.
+Τὰ παιδία ἀναπαύονται ἐν τῷ κήπῳ.
+The children rest in the garden.
+0.25
+
+Ὁ ἥλιος λάμπει ἐν τῷ οὐρανῷ.
+The sun shines in the sky.
+Ἡ θάλασσα ἐστὶν μεγάλη καὶ βαθεῖα.
+The sea is big and deep.
+0.0
+
+Τὰ πετεινά ᾡδάς ᾄδουσιν ἐν τῃ ὕλῃ.
+The birds sing songs in the forest.
+Ἡ κυρία ἐστίν χαίρουσα ἐν τῷ οἴκῳ αὐτῆς.
+The lady is happy in her house.
+0.0
+
+ὁ Ἰησοῦς ἀνέβη μετὰ τῶν μαθητῶν αὐτοῦ εἰς ὄρος καὶ μετεμορφώθη.
+Jesus went up a mountain with his disciples and was transfigured.
+μεταμόρφωσις Ἰησοῦ ἐγένετο ἐν τῷ ὄρει μετὰ τῶν μαθητῶν αὐτοῦ.
+The transfiguration of Jesus took place on the mountain with his disciples.
+0.91
+
+Τὰ πρόβατα βόσκουσιν ἐν τῷ ἀγρῷ
+The sheep are grazing in the field.
+Τοὺς ἐν τῷ ἀγρῷ χόρτους κατατρώγουσιν οἱ ἀρνοὶ.
+The sheep are devouring the grass in the field.
+0.47
+
+ὁ βασιλεὺς ἐγάμησεν τὴν γυναῖκα.
+The king married his wife.
+ὁ βασιλεὺς ἀπέλυσε τὴν γυναῖκα αὐτοῦ.
+The king divorced his wife.
+0.37
+
+ὧρα πολλὴ ἤδη, καὶ νομίζω ὅτι ὥρα ἐστὶν κοιμηθῆναι
+It is getting late, and I suppose it is time to sleep.
+Νύξ ἐστιν, καὶ δοκεῖ μοι καιρὸς ἀναπαυσεως εἶναι.
+It is night, and I think it is bed time.
+0.74
+
+Νύξ ἐστιν, καὶ δοκεῖ μοι καιρὸς ἀναπαυσεως εἶναι.
+It is night, and I think it is bed time.
+Πρόσεχε, μήπως ἐν τῷ σκότῳ πταίσῃς.
+Be careful, you might stumble in the dark.
+0.21
+
+Μαρτυρήσας μίαν μεγάλην μάχην, ὁ γραμματεύς ἔγραψεν ὅσα εἶδεν εἰς βιβλίον, ἵνα οἱ μελλόντες χρόνοι μὴ ἐπιλαθωνται τὰ συμβεβηκότα.
+Having witnessed a dramatic battle, the scribe wrote all he had seen in a book, so future generations would not forget what had happened.
+Ἐπειδὴ δὲ διεσώθη ἐκ θανατηφόρου πολέμου μεγάλων δύο στρατηγεῶν, εἷς γραμματεὺς ἔγραψε τὴν μνήμην αὐτοῦ ἐν βιβλίῳ ὅπως ὁ πόλεμος ἀεὶ μνησθῇ.
+After surviving a deadly battle between two great armies, one scribe recorded his memory of it in a book so the battle would always be remembered.
+0.74
+
+Ὁ ποιητὴς διηγήσατο μεγάλην ἱστορίαν, ἀλλ' οὐδεὶς ἐπίστευσεν αὐτῷ.
+The poet told a grand story, but nobody believed him.
+Ὁ γεωργὸς ἐψεύσατο, καὶ πάντες αὐτῷ ἐπίστευσαν.
+The farmer told a lie, and everybody believed him.
+0.25
+
+οἱ μὲν οὖν ἄλλοι νομοθέται ταῖς γνώμαις διέστησαν καὶ τὸν ἕτερον αὐτῶν ὃν ἔδοξεν ἑκάστοις ἑλόμενοι τὸν ἕτερον παρέλιπον, οἷον Λακεδαιμόνιοι μὲν καὶ Κρῆτες ἔθεσιν ἐπαίδευον, οὐ λόγοις, Ἀθηναῖοι δὲ καὶ σχεδὸν οἱ ἄλλοι πάντες Ἕλληνες ἃ μὲν χρὴ πράττειν ἢ μὴ προσέτασσον διὰ τῶν νόμων, τοῦ δὲ πρὸς αὐτὰ διὰ τῶν ἔργων ἐθίζειν ὠλιγώρουν.
+Other lawgivers have separated these two ways and opted for one of those ways of instruction, whichever each one pleased, while neglecting the other. So the men of Sparta and of Crete taught by practical exercises, but not by words; while the Athenians and almost all the other Greeks made laws about what was to be done, or left undone, but gave little thought to putting them into practice.
+ἅπασαι γὰρ αἱ πράξεις καὶ διατριβαὶ καὶ λόγοι πάντες ἐπὶ τὴν πρὸς θεὸν ἡμῖν εὐσέβειαν ἀναφέρουσιν· οὐδὲν γὰρ τούτων ἀνεξέταστον οὐδὲ ἀόριστον παρέλιπεν.
+All our actions and studies and words have a bearing on piety towards God, for he has left none of these unregulated or undecided.
+0.22
+
+Ταῦτα συμβουλεύσαντος Ἰωάννου σφόδρα τοῖς ἄλλοις ἤρεσεν.
+After John gave this advice, it was greatly appreciated by the others.
+Ἡ διαβούλευσις αὕτη τοῦ Ἰωάννου εὖ δεδεκται ὑπὸ τῶν ἄλλων.
+This counsel of John's was well received by the others.
+0.86
+
+φρέαρ γὰρ ἦν, διὸ καὶ μᾶλλον ἔμειναν, οὐδ' αὐτὸ μὲν ἐξαρκεῖν δυνάμενον τοσούτῳ στρατῷ, βραχεῖαν μέντοι παρέχον αὐτοῖς εὐθυμίαν ἐν ἐκείνοις εὑρεθὲν τοῖς χωρίοις:
+There was a well in the place, which is the reason they stayed there, which, although insufficient for such a large army, still gave them some comfort, to find it at all in such a desert place.
+καρπόν τε φέρειν ἦν ἀσθενῆ τὰ δένδρα διὰ σπάνιν τῆς ἐξ ὕδατος εἰς τοῦτο ἀφορμῆς καὶ παρακλήσεως.
+The trees were too weak to bear fruit, for lack of water to nourish and enliven them.
+0.1
+
+ἀπέθανεν δὲ Ἑβραίων μὲν οὐδείς, τῶν δὲ πολεμίων ὅσους οὐδ' ἀριθμῷ γνῶναι δυνατὸν ἦν.
+Of the Hebrews not one was killed, but of the enemy too many to be counted.
+Ἐν τοῖς Ἑβραίοις οὐδεὶς ἀπώλετο, ἐκ δὲ τῶν ἐχθρῶν πολλοὶ ἀπεκτάνθησαν.
+Among the Hebrews, no one was lost, but many of their enemies were killed.
+0.73
+
+ταῦτα Ἡσαίας προεφήτευσεν ἔμπροσθεν ἢ κατασκαφῆναι τὸν ναὸν ἔτεσιν ἑκατὸν καὶ τεσσαράκοντα.
+This was foretold by Isaias one hundred and forty years before the temple was demolished.
+Τοῦτο μέν, ἡνίκα βασιλεὺς Βαβυλωνίων ἐπολιόρκει ταύτην τὴν πόλιν, συμβαλὼν Σεδεκίας ὁ ἡμέτερος βασιλεὺς παρὰ τὰς Ἱερεμίου προφητείας αὐτός τε ἑάλω καὶ τὸ ἄστυ μετὰ τοῦ ναοῦ κατασκαπτόμενον εἶδε:
+For example, when the king of Babylon besieged this city and our king Zedekiah opposed him, contrary to the prophecies of Jeremiah, he was taken prisoner and saw the city and the temple demolished.
+0.4
+
+Ἡ ἐπιστολὴ ἐγράφη Ἑβραϊστί.
+The letter was written in Hebrew.
+Ἡ ἐπιστολὴ ἐγράφη τῇ Ῥωμαϊστί.
+The letter was written in Latin.
+0.35
+
+μετ' οὐ πολὺν δὲ χρόνον αὐτός τε ἐλήμφθη καὶ ἡ πόλις Κύρου τοῦ Περσῶν βασιλέως ἐπ' αὐτὸν στρατεύσαντος:
+After a little while, he and the city were captured by Cyrus, king of Persia, who made war on him.
+Μετὰ βραχὺ δὲ χρόνον, ὅλη ἡ πόλις αἰχμαλωτίσθη ὑπὸ τοῦ βασιλέως Κύρου, ὃς πόλεμον εἶχεν ἐπ᾽ αὐτοῦ.
+A short time later, the whole city was taken captive by king Cyrus, who was at war against him.
+0.84
+
+Βραχέως δὲ χρόνου μετὰ ταῦτα, ὁ Δαρεῖος λαβὼν τὸ στράτευμα αὐτοῦ πολιορκήσας τὴν πόλιν ἀνέλωσεν αὐτήν.
+Shortly after, Darius took his army and beseiged the city and destroyed it
+μετ' οὐ πολὺν δὲ χρόνον αὐτός τε ἐλήμφθη καὶ ἡ πόλις Κύρου τοῦ Περσῶν βασιλέως ἐπ' αὐτὸν στρατεύσαντος:
+After a little while, he and the city were captured by Cyrus, king of Persia, who made war on him.
+0.27
+
+Κατοικτείρας δ' αὐτοὺς Ἀλέξανδρος ἀναχωρεῖν τοὺς Ῥωμαίους ἐκέλευσεν.
+Then Alexander took pity on their condition and ordered the Romans to retreat.
+Ιδών δὲ τὴν δυστυχίαν αὐτῶν, ὁ Ῥωμαῖος στρατηγὸς ἐκέλευσεν τοὺς στρατιώτας αὐτοῦ ἀναχωρεῖν.
+Seeing their plight, the Roman general ordered his soldiers to retreat.
+0.81
+
+καὶ διαφθείρειν δὲ τοὺς νέους ὁ κατήγορος αὐτὸν ᾐτιᾶτο, τῆς πατρίου πολιτείας καὶ τῶν νόμων ὅτι προῆγεν αὐτοὺς καταφρονεῖν. Σωκράτης μὲν οὖν πολίτης Ἀθηναίων τοιαύτην ὑπέμεινε τιμωρίαν.
+His accuser said that he corrupted the young men, by making them despise the system and laws of their city, and so Socrates, the citizen of Athens, was executed.
+Λέγοντες πάντες ὅτι οὗτος ὁ ἄνθρωπος τοὺς ἀνθρώπους εὐδαίμονας ἐποίει καὶ βίον ἐπήγαγεν εὐπραγίας παρασχὼν αὐτοῖς τοῦ νόμου ἐπιστήσεως, καὶ οὕτως μόνος ὁ ἄνθρωπος κατέλιπεν.
+Everybody said this man made people happy, and improved their lives, by making them appreciate the law. And so this man was left alone.
+0.14
+
+Οἱ Αἰγύπτιοι ζῶσιν ἐν Αἰγύπτῳ.
+The Egyptians live in Egypt.
+Οἱ Ῥωμαῖοι οὐ ζῶσιν ἐν Αἰγύπτῳ.
+The Romans do not live in Egypt.
+0.29
+
+Ἰησοῦς ἐν τῷ ἱερῷ διδάσκων ἦν.
+Jesus was teaching in the temple court.
+ὁ Παῦλος ἐδίδασκεν τοὺς ἀνθρώπους ἐν τῷ ναῷ.
+Paul taught the people in the temple.
+0.5
+
+ὁ ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ, ἀνέκραξεν.
+The man with an unclean spirit cried out.
+Ὁ ἔχων τὸ ἅγιον πνεῦμα λαλήσει.
+The person who has the holy spirit will speak.
+0.38
+
+Δόξα ἐν ὑψίστοις θεῷ, καὶ ἐπὶ γῆς εἰρήνη, ἐν ἀνθρώποις εὐδοκία.
+Glory to God in the highest, and on earth peace, goodwill toward men.
+ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου. καὶ πνεύματι ἡγεμονικῷ στήρισόν με.
+Give me back the gladness of your salvation, strengthen me with your governing spirit.
+0.3
+
+ὅσα δὲ μάλιστα δι’ αὐτῶν ἑκάστῃ συμβαίνει, ταῦτα ἐπισκεπτέον ἡμῖν ἐστιν.
+The administration of a free state is again very varied, but it is the easiest to conduct.
+τοῖς μὲν ἐκ πάντων δοκεῖ τούτων, τοῖς δ᾽ ἐκ δυοῖν, τοῖς δ᾽ ἐν ἑνί τινι τούτων εἶναι τὸ ζῆν εὐδαιμόνως.
+Some think that the happy life comes from them all, others from two of them, others that it consists in some one of them.
+0.24
+
+κόσμος γὰρ χρύσεός ἐστιν ἐπ᾽ αὐτῆς, καὶ οἱ δεσμοὶ αὐτῆς κλῶσμα ὑακίνθινον·
+For there is a golden ornament upon her, and her chains are purple thread.
+καὶ διέρρηξεν Ἰωναθὰν τὰ ἱμάτια αὐτοῦ, καὶ ἐπέθετο γῆν ἐπὶ τὴν κεφαλὴν αὐτοῦ, καὶ προσηύξατο.
+And Jonathan tore his robes and put dirt on his head and prayed.
+0.0
+
+πράξωμεν οὖν τὴν δικαιοσύνην, ἵνα εἰς τέλος σωθῶμεν.
+Let us then do righteousness, that we may be saved at the end.
+Ὁρᾶτε τοίνυν ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος, καὶ οὐκ ἐκ πίστεως μόνον.
+You see then that a man is justified by works, and not by faith only.
+0.25
+
+εἰσεβάλλοντο πρόβατα καὶ αἶγας, καὶ ἔζη σιτούμενος·
+They would throw sheep and goats down to him and he survived by eating them.
+τὸ πῦρ σου ψυχρὸν ἡμῖν, καὶ ἄπονοι οἱ καταπέλται, καὶ ἀδύνατος ἡ βία σου.
+Your fire is cold to us, and your catapult causes no pain, and your force has no strength.
+0.0
+
+οὕτως ἡμῖν καὶ τὸ δαιμόνιον, ὡς δίκαια πράσσουσι, συνεπιλαμβάνει.
+So it comes about that the gods favor us because we do what is just.
+ἐμοὶ δὲ θαυμάσαι θεῶν τελεσάντων οὐδέν ποτε φαίνεται ἔμμεν ἄπιστον.
+To me nothing that the gods accomplish ever appears unbelievable, however miraculous.
+0.18
+
+εἰ οὖν δεόμεθα τοῦ κυρίου, ἵνα ἡμῖν ἀφῇ, ὀφείλομεν καὶ ἡμεῖς ἀφιέναι.
+If then we pray the Lord to forgive us, we also ought to forgive.
+οἱ γὰρ νῦν πιστεύσαντες ἢ μέλλοντες πιστεύειν μετάνοιαν ἁμαρτιῶν οὐκ ἔχουσιν, ἄφεσιν δὲ ἔχουσι τῶν προτέρων ἁμαρτιῶν αὐτῶν.
+For those who have already believed or shall believe in the future, have no repentance of sins, but have remission of their former sin.
+0.37
+
+τότε ὄψεται ὁ κόσμος τὸν κύριον ἐρχόμενον ἐπάνω τῶν νεφελῶν τοῦ οὐρανοῦ.
+Then world will see the Lord coming on the clouds of the sky.
+Πᾶς γὰρ ὃς ἂν μὴ ὁμολογῇ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθέναι, ἀντιχριστός ἐστιν·
+For everyone who does not confess that Jesus Christ has come in the flesh is an anti-Christ;
+0.16
+
+ἦσαν ἑπτὰ ἄνδρες ἑστῶτες ἐπὶ τοῦ δώματος.
+There were seven men standing on the rooftop.
+ὀκτὼ γυναῖκες ἐκάθιζον ἐπὶ καθέδρας ἐν τῷ οἴκῳ.
+Eight women were sitting on chairs in the house.
+0.02
+
+Ὁ ἐλέφας ἦν μόνος καὶ ἄθυμος.
+The elephant was alone and fainthearted.
+οἱ ταξιδιώτες καὶ οἱ κάμηλοι αὐτῶν ἐπλανήθησαν ἐν τῇ ἐρήμῳ καὶ πολὺ ἐδίψησαν.
+The travelers and their camels were lost in the desert and very thirsty.
+0.04
+
+Ἰούλιος Καῖσαρ διέβη τὸν ποταμόν.
+Julius Caesar crossed the river.
+Μωϋσῆς διέβη τὴν Ἐρυθρὰν Θάλασσαν.
+Moses crossed the Red Sea.
+0.17
+
+ὁ δαιμονιζόμενος παῖς ἀνέκραξεν.
+The demon possessed boy cried out.
+ὁ παῖς ἔχων πνεῦμα ἀκάθαρτον ἔκραζεν φωνῇ μεγάλῃ.
+The boy with an unclean spirit was crying out with a loud voice.
+0.85
+
+ὁ δαιμονιζόμενος παῖς ἀνέκραξεν.
+The demon possessed boy cried out.
+Δείλης δὲ ὀψίας ἀφῆκε τὸ παιδίον φωνὴν, καὶ τὸν πατέρα ἐκάλεσεν.
+And in the evening of that day, the child let out a cry and called for his father.
+0.5
+
+πάντα εὐσχημόνως καὶ κατὰ τάξιν γινέσθω.
+Let all things be done decently and in order.
+Ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον·
+Submit yourselves to every human institution for the Lord's sake.
+0.26
+
+τότε ὄψεται ὁ κόσμος τὸν κύριον ἐρχόμενον ἐπάνω τῶν νεφελῶν τοῦ οὐρανοῦ.
+Then world will see the Lord coming on the clouds of the sky.
+καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς.
+And then they will see the Son of Man coming in a cloud with power and great glory.
+0.7
+
+ὁ οὖν ἀνθρωποκτόνος ἀπέκτεινεν ἡμᾶς.
+Therefore the murderer killed us.
+ὁ δράκων ἀπέκτεινεν τὸν ἄνθρωπον τῷ πυρὶ.
+The dragon killed the man with fire.
+0.26
+

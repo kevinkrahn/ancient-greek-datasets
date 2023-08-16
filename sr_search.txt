@@ -1,0 +1,521 @@
+Q: Who founded the city of Rome?
+Q: Where did the city of Rome get its name?
+Plutarch, Romulus, tlg0007.tlg002
+τὸ μέγα τῆς Ῥώμης ὄνομα καὶ δόξῃ διὰ πάντων ἀνθρώπων κεχωρηκὸς ἀφʼ ὅτου καὶ διʼ ἣν αἰτίαν τῇ πόλει γέγονεν, οὐχ ὡμολόγηται παρὰ τοῖς συγγραφεῦσιν, ἀλλʼ οἱ μὲν Πελασγούς, ἐπὶ πλεῖστα τῆς οἰκουμένης πλανηθέντας ἀνθρώπων τε πλείστων κρατήσαντας, αὐτόθι κατοικῆσαι, καὶ διὰ τὴν ἐν τοῖς ὅπλοις ῥώμην οὕτως ὀνομάσαι τὴν πόλιν... ἄλλοι δὲ Ῥώμην, Ἰταλοῦ θυγατέρα καὶ Λευκαρίας, οἱ δὲ Τηλέφου τοῦ Ἡρακλέους, Αἰνείᾳ γαμηθεῖσαν, οἱ δ’ Ἀσκανίῳ τῷ Αἰνείοὐ, λέγουσι τοὔνομα θέσθαι τῇ πόλει· οἱ δὲ Ῥωμανόν, Ὀδυσσέως παῖδα καὶ Κίρκης, οἰκίσαι τὴν πόλιν· οἱ δὲ Ῥῶμον ἐκ Τροίας ὑπὸ Διομήδους ἀποσταλέντα τὸν Ἠμαθίωνος, οἱ δὲ Ῥῶμιν Λατίνων τύραννον, ἐκβαλόντα Τυρρηνοὺς τοὺς εἰς Λυδίαν μὲν ἐκ Θετταλίας, ἐκ δὲ Λυδίας εἰς Ἰταλίαν παραγενομένους. οὐ μὴν οὐδ’ οἱ Ῥωμύλον τῷ δικαιοτάτῳ τῶν λόγων ἀποφαίνοντες ἐπώνυμον τῆς πόλεως ὁμολογοῦσι περὶ τοῦ γένους αὐτοῦ.
+From whom, and for what reason the great name of Rome, so famous among mankind, was given to that city, writers are not agreed. Some say that the Pelasgians, after wandering over most of the habitable earth and subduing most of mankind, settled down on that site, and that from their strength in war they called their city Rome... Others again say that the Roma who gave her name to the city was a daughter of Italus and Leucaria, or, in another account, of Telephus the son of Heracles; and that she was married to Aeneas, or, in another version, to Ascanius the son of Aeneas. Some tell us that it was Romanus, a son of Odysseus and Circe, who colonized the city; others that it was Romus, who was sent from Troy by Diomedes the son of Emathion; and others still that it was Romis, tyrant of the Latins, after he had driven out the Tuscans, who passed from Thessaly into Lydia, and from Lydia into Italy. Moreover, even those writers who declare, in accordance with the most authentic tradition, that it was Romulus who gave his name to the city, do not agree about his lineage. 
+
+Q: Who founded the city of Rome?
+Plutarch, Romulus, tlg0007.tlg002
+κτισθῆναι δὲ τὴν Ῥώμην ὑπ’ αὐτοῦ τῇ ἐνάτῃ Φαρμουθὶ μηνὸς ἱσταμένου μεταξὺ δευτέρας ὥρας καὶ τρίτης. ἐπεὶ καὶ πόλεως τύχην ὥσπερ ἀνθρώπου κύριον ἔχειν οἴονται χρόνον, ἐκ τῆς πρώτης γενέσεως πρὸς τὰς τῶν ἀστέρων ἐποχὰς θεωρούμενον. ἀλλὰ ταῦτα μὲν ἴσως καὶ τὰ τοιαῦτα τῷ ξένῳ καὶ περιττῷ προσάξεται μᾶλλον ἢ διὰ τὸ μυθῶδες ἐνοχλήσει τοὺς ἐντυγχάνοντας αὐτοῖς.
+and that Rome was founded by him on the ninth day of the month Pharmuthi, between the second and third hour: for it is thought that a city’s fortune, as well as that of a man, has a decisive time, which may be known by the position of the stars at its very origin. These and similar speculations will perhaps attract readers by their novelty and extravagance, rather than offend them by their fabulous character.
+
+Q: What kind of birds of omen did Romulus and Remus see?
+Q: How many vultures did Romulus see?
+Plutarch, Romulus, tlg0007.tlg002
+συνθεμένων δὲ τὴν ἔριν ὄρνισιν αἰσίοις βραβεῦσαι, καὶ καθεζομένων χωρίς, ἕξ φασι τῷ Ῥέμῳ, διπλασίους δὲ τῷ Ῥωμύλῳ προφανῆναι γῦπας· οἱ δὲ τὸν μὲν Ῥέμον ἀληθῶς ἰδεῖν, ψεύσασθαι δὲ τὸν Ῥωμύλον, ἐλθόντος δὲ τοῦ Ῥέμου, τότε τοὺς δώδεκα τῷ Ῥωμύλῳ φανῆναι· διὸ καὶ νῦν μάλιστα χρῆσθαι γυψὶ Ῥωμαίους οἰωνιζομένους. Ἡρόδωρος δʼ ὁ Ποντικὸς ἱστορεῖ καὶ τὸν Ἡρακλέα χαίρειν γυπὸς ἐπὶ πράξει φανέντος.
+Agreeing to settle their quarrel by the flight of birds of omen, and taking their seats on the ground apart from one another, six vultures, they say, were seen by Remus, and twice that number by Romulus. Some, however, say that whereas Remus truly saw his six, Romulus lied about his twelve, but that when Remus came to him, then he did see the twelve. Hence it is that at the present time also the Romans chiefly regard vultures when they take auguries from the flight of birds. Herodorus Ponticus relates that Hercules also was glad to see a vulture present itself when he was upon an exploit. 
+
+Q: The martyr Polycarp was bishop of what city?
+Q: Was Polycarp the bishop of Smyrna?
+Martyrdom of Polycarp, Apostolic Fathers, The Martydom of Polycarp, tlg1484.tlg001
+ὧν εἷς καὶ οὗτος γεγόνει ὁ θαυμασιώτατος μάρτυς Πολύκαρπος, ἐν τοῖς καθ̓ ἡμᾶς χρόνοις διδάσκαλος ἀποστολικὸς καὶ προφητικὸς γενόμενος, ἐπίσκοπος τῆς ἐν Σμύρνῃ καθολικῆς ἐκκλησίας. πᾶν γὰρ ῥῆμα, ὃ ἀφῆκεν ἐκ τοῦ στόματος αὐτοῦ. καὶ ἐτελειώθη καὶ τελειωθήσεται.
+And of the elect was he indeed one, the wonderful martyr. Polycarp, who in our days was an apostolic and prophetic teacher, bishop of the Catholic Church in Smyrna. For every word which he uttered from his mouth both was fulfilled and will be fulfilled.
+
+Q: How was the city of Troy captured?
+Q: giant hollow horse made of wood at Troy
+Q: Is it true that the Greeks tricked the Trojans with a hollow wooden horse
+Palaiphatos, On Unbelievable Stories, tlg1553.tlg001
+Φασὶν ὡς Ἀχαιοὶ οἱ ἐν ξυλίνῳ κοίλῳ ἵππῳ ἀριστεῖς κατέβαλον τὴν Ἴλιον. ἔστι δὲ μυθώδης ἄγαν ὁ λόγος. ἡ δὲ ἀλήθεια αὕτη. ἵππον κατεσκεύασαν ξύλινον πρὸς μέτρον τῶν πυλῶν, ὅπως μὴ ἑλκόμενος εἰσέλθῃ, ἀλλ’ ὑπερέχῃ τῷ μεγέθει. οἱ δὲ λοχαγοὶ ἐκάθηντο ἐν κοίλῳ χωρίῳ παρὰ τὴν πόλιν, ὃς Ἀργείων λόχος ἐκαλεῖτο μέχρι τοῦ νῦν. αὐτόμολος δὲ ἐλθὼν παρὰ τῶν Ἀργείων Σίνων φράζει αὐτοῖς κατὰ μαντείαν ὡς, εἰ μὴ εἰσαγάγοιεν τὸν ἵππον εἰς τὴν πόλιν, ὑποστρεψόντων Ἀχαιῶν, ἂν δὲ εἰσαγάγωσι, μηκέθ’ ἡξόντων. οὑ ἐπακούσαντες οἱ Τρῶες καὶ καθελόντες τὸ τεῖχος, εἰσάγουσι τὸν ἵππον. εὐωχουμένοις δὲ αὐτοῖς ἐπιπίπτουσιν οἱ Ἕλληνες δι’ ἧς καθῄρητο τὸ τεῖχος, καὶ οὕτως ἑάλω ἡ Ἴλιος.
+They say that the best of Achaians sacked Troy in a hollow wooden horse. But this account is excessively mythic! This is the truth. They built a wooden horse according to the dimensions of the city-gates so that it could not be pulled into the city since it was too tall. The Greek commanders then set up camp in a hollow near the city, which is called ‘the Argive ambush’ even now. Sinon deserted from the Argives and revealed a prophecy to the Trojans: if they did not bring the horse into the city, the Achaians would return; but if they did, the Achaians would leave. The Trojans listened to him, demolished their walls, and brought the horse inside. As they were feasting in celebration, the Greeks set upon them, coming through the wall which had been demolished. And this is how Troy was captured.
+
+Q: giant hollow horse made of wood at Troy
+Q: Is it true that the Greeks tricked the Trojans with a hollow wooden horse
+Apollodorus of Athens, Epitome, tlg0548.tlg002
+ὕστερον δὲ ἐπινοεῖ δουρείου ἵππου κατασκευὴν καὶ ὑποτίθεται Ἐπειῷ, ὃς ἦν ἀρχιτέκτων· οὗτος ἀπὸ τῆς Ἴδης ξύλα τεμὼν ἵππον κατασκευάζει κοῖλον ἔνδοθεν εἰς τὰς πλευρὰς ἀνεῳγμένον. εἰς τοῦτον Ὀδυσσεὺς εἰσελθεῖν πείθει πεντήκοντα τοὺς ἀρίστους, ὡς δὲ ὁ τὴν μικρὰν γράψας Ἰλιάδα φησί, τρισχιλίους, τοὺς δὲ λοιποὺς γενομένης νυκτὸς ἐμπρήσαντας τὰς σκηνάς, ἀναχθέντας περὶ τὴν Τένεδον ναυλοχεῖν καὶ μετὰ τὴν ἐπιοῦσαν νύκτα καταπλεῖν.
+But afterwards he invented the construction of the Wooden Horse and suggested it to Epeus, who was an architect. Epeus felled timber on Ida, and constructed the horse with a hollow interior and an opening in the sides. Into this horse Ulysses persuaded fifty ( or, according to the author of the Little Iliad, three thousand) of the doughtiest to enter, while the rest, when night had fallen, were to burn their tents, and, putting to sea, to lie to off Tenedos, but to sail back to land after the ensuing night.
+
+Q: giant hollow horse made of wood at Troy
+Q: Is it true that the Greeks tricked the Trojans with a hollow wooden horse
+Pausanias, Description of Greece, tlg0525.tlg001
+ἵππος δὲ ὁ καλούμενος Δούριος ἀνάκειται χαλκοῦς. καὶ ὅτι μὲν τὸ ποίημα τὸ Ἐπειοῦ μηχάνημα ἦν ἐς διάλυσιν τοῦ τείχους, οἶδεν ὅστις μὴ πᾶσαν ἐπιφέρει τοῖς Φρυξὶν εὐήθειαν· λέγεται δὲ ἔς τε ἐκεῖνον τὸν ἵππον ὡς τῶν Ἑλλήνων ἔνδον ἔχοι τοὺς ἀρίστους, καὶ δὴ καὶ τοῦ χαλκοῦ τὸ σχῆμά ἐστι κατὰ ταῦτα· καὶ Μενεσθεὺς καὶ Τεῦκρος ὑπερκύπτουσιν ἐξ αὐτοῦ, προσέτι δὲ καὶ οἱ παῖδες οἱ Θησέως.
+There is the horse called Wooden set up in bronze. That the work of Epeius was a contrivance to make a breach in the Trojan wall is known to everybody who does not attribute utter silliness to the Phrygians. But legend says of that horse that it contained the most valiant of the Greeks, and the design of the bronze figure fits in well with this story. Menestheus and Teucer are peeping out of it, and so are the sons of Theseus.
+
+Q: city with men with one hundred hands
+Q: city called one hundred hands
+Palaiphatos, On Unbelievable Stories, tlg1553.tlg001
+Περὶ Κόττου καὶ Βριάρεω, ὡς ἑκατὸν ἔσχον χεῖρας ἄνδρες ὄντες, πῶς οὐκ εὔηθες; τὸ δὲ ἀληθὲς οὕτως. τούτων τῇ πόλει ὄνομα ἦν Ἑκατογχειρία, ἐν ᾗ ᾤκουν, ἦν δὲ τῆς Χαονίας τῆς νῦν Ὀρεστιάδος καλουμένης. τεκμαίρομαι δὲ ὅτι μετὰ τῶν Ὀλυμπίων ἐμαχέσαντο τὴν πρὸς Τιτᾶνας μάχην· ταῦτα δὲ τὰ χωρία ὅμορά ἐστι τῷ Ὀλύμπῳ. ἔλεγον οὖν οἱ ἄνθρωποι Κόττος καὶ Βριάρεως καὶ Γύγης οἱ Ἑκατόγχειρες βοηθήσαντες τοῖς Ὀλυμπίοις αὐτοὶ ἐξήλασαν τοὺς Τιτᾶνας ἐκ τοῦ Ὀλύμπου.
+They say about Cottos and Briareos that they each had one hundred hands, even though they were men. How is this not naive? The truth is as follows. The name of the city in which they lived was Hundred-hands; this was in Chaonia and is now called Orestias. I base my claim on the fact that they fought alongside the Olympians in the battle against the Titans and these lands border on Olympos. And so people would say, Cottos and Briareos, the Hundred-handers, helped the Olympians and drove the Titans from Olympos.
+
+Q: what was the Minotaur monster on Crete
+Q: name of the monster in the labyrinth on Crete
+Q: on what island was the Minotaur monster
+Plutarch, Theseus, tlg0007.tlg001
+τοὺς δὲ παῖδας εἰς Κρήτην κομιζομένους ὁ μὲν τραγικώτατος μῦθος ἀποφαίνει τὸν Μινώταυρον ἐν τῷ Λαβυρίνθῳ διαφθείρειν, ἢ πλανωμένους αὐτοὺς καὶ τυχεῖν ἐξόδου μὴ δυναμένους ἐκεῖ καταθνήσκειν, τὸν δὲ Μινώταυρον, ὥσπερ Εὐριπίδης φησί, σύμμικτον εἶδος κἀποφώλιον βρέφος γεγονέναι, καὶ ταύρου μεμῖχθαι καὶ βροτοῦ διπλῇ φύσει.
+And the most dramatic version of the story declares that these young men and women, on being brought to Crete, were destroyed by the Minotaur in the Labyrinth, or else wandered about at their own will and, being unable to find an exit, perished there; and that the Minotaur, as Euripides says, was a mingled form and hybrid birth of monstrous shape, and that Two different natures, man and bull, were joined in him.
+
+Q: what was the Minotaur monster on Crete
+Q: on what island was the Minotaur monster
+Pausanias, Description of Greece, tlg0525.tlg001
+ἀνέθεσαν δὲ καὶ ἄλλο Θησέως ἔργον, καὶ ὁ λόγος οὕτως ἐς αὐτὸ ἔχει. Κρησὶ τήν τε ἄλλην γῆν καὶ τὴν ἐπὶ ποταμῷ Τεθρίνι ταῦρος ἐλυμαίνετο. πάλαι δὲ ἄρα τὰ θηρία φοβερώτερα ἦν τοῖς ἀνθρώποις ὡς ὅ τ’ ἐν Νεμέᾳ λέων καὶ ὁ Παρνάςςιος καὶ δράκοντες τῆς Ἑλλάδος πολλαχοῦ καὶ ὗς περί τε Καλυδῶνα καὶ Ἐρύμανθον καὶ τῆς Κορινθίας ἐν Κρομυῶνι, ὥστε καὶ ἐλέγετο τὰ μὲν ἀνιέναι τὴν γῆν, τὰ δὲ ὡς ἱερὰ εἴη θεῶν, τὰ δὲ καὶ ἐς τιμωρίαν ἀνθρώπων ἀφεῖσθαι. καὶ τοῦτον οἱ Κρῆτες τὸν ταῦρον ἐς τὴν γῆν πέμψαι σφίσι Ποσειδῶνά φασιν, ὅτι θαλάσσης ἄρχων Μίνως τῆς Ἑλληνικῆς οὐδενὸς Ποσειδῶνα ἦγεν ἄλλου θεοῦ μᾶλλον ἐν τιμῇ.
+Another deed of Theseus they have represented in an offering, and the story about it is as follows:—The land of the Cretans and especially that by the river Tethris was ravaged by a bull. It would seem that in the days of old the beasts were much more formidable to men, for example the Nemean lion, the lion of Parnassus, the serpents in many parts of Greece, and the boars of Calydon, Eryrmanthus and Crommyon in the land of Corinth, so that it was said that some were sent up by the earth, that others were sacred to the gods, while others had been let loose to punish mankind. And so the Cretans say that this bull was sent by Poseidon to their land because, although Minos was lord of the Greek Sea, he did not worship Poseidon more than any other god.
+
+Q: who killed the Minotaur
+Apollodorus of Athens, Epitome, tlg0548.tlg002
+ὑποθεμένου δὲ ἐκείνου, λίνον εἰσιόντι Θησεῖ δίδωσι· τοῦτο ἐξάψας Θησεὺς τῆς θύρας ἐφελκόμενος εἰσῄει. καταλαβὼν δὲ Μινώταυρον ἐν ἐσχάτῳ μέρει τοῦ λαβυρίνθου παίων πυγμαῖς ἀπέκτεινεν, ἐφελκόμενος δὲ τὸ λίνον πάλιν ἐξῄει. καὶ διὰ νυκτὸς μετὰ Ἀριάδνης καὶ τῶν παίδων εἰς Νάξον ἀφικνεῖται. ἔνθα Διόνυσος ἐρασθεὶς Ἀριάδνης ἥρπασε, καὶ κομίσας εἰς Λῆμνον ἐμίγη.καὶ γεννᾷ Θόαντα Στάφυλον Οἰνοπίωνα καὶ Πεπάρηθον.
+And at his suggestion she gave Theseus a clue when he went in; Theseus fastened it to the door, and, drawing it after him, entered in. And having found the Minotaur in the last part of the labyrinth, he killed him by smiting him with his fists; and drawing the clue after him made his way out again. And by night he arrived with Ariadne and the children at Naxos. There Dionysus fell in love with Ariadne and carried her off; and having brought her to Lemnos he enjoyed her, and begat Thoas, Staphylus, Oenopion, and Peparethus.
+
+Q: who killed the Minotaur
+Q: who fell in love with Theseus
+Q: name of the monster in the labyrinth on Crete
+Q: on what island was the Minotaur
+Plutarch, Theseus, tlg0007.tlg001
+ἐπεὶ δὲ κατέπλευσεν εἰς Κρήτην, ὡς μὲν οἱ πολλοὶ γράφουσι καὶ ᾄδουσι, παρὰ τῆς Ἀριάδνης ἐρασθείσης τὸ λίνον λαβών, καὶ διδαχθεὶς ὡς ἔστι τοῦ λαβυρίνθου τοὺς ἑλιγμοὺς διεξελθεῖν, ἀπέκτεινε τὸν Μινώταυρον καὶ ἀπέπλευσε τὴν Ἀριάδνην ἀναλαβὼν καὶ τοὺς ἠϊθέους. Φερεκύδης δὲ καὶ τὰ ἐδάφη τῶν Κρητικῶν νεῶν φησιν ἐκκόψαι τὸν Θησέα, τὴν δίωξιν ἀφαιρούμενον.
+When he reached Crete on his voyage, most historians and poets tell us that he got from Ariadne, who had fallen in love with him, the famous thread, and that having been instructed by her how to make his way through the intricacies of the Labyrinth, he slew the Minotaur and sailed off with Ariadne and the youths. And Pherecydes says that Theseus also staved in the bottoms of the Cretan ships, thus depriving them of the power to pursue.
+
+Q: horses that eat people
+Q: what do horses eat
+Palaiphatos, On Unbelievable Stories, tlg1553.tlg001
+Περὶ τῶν Διομήδους ἵππων φασὶν ὅτι ἀνδροφάγοι ἦσαν, γελοίως· τὸ γὰρ ζῷον τοῦτο μᾶλλον χόρτῳ καὶ κριθῇ ἥδεται ἢ κρέασιν ἀνθρωπίνοις. τὸ δ’ ἀληθὲς ὧδε ἔχει. τῶν παλαιῶν ἀνθρώπων ὄντων αὐτουργῶν, καὶ τὴν τροφὴν καὶ τὴν περιουσίαν οὕτως κτωμένων, ἅτε τὴν γῆν ἐργαζομένων, ἱπποτροφεῖν τις ἐπελάβετο, καὶ μέχρι τούτου ἵπποις ἥδετο, ἕως οὗ τὰ αὑτοῦ ἀπώλεσε καὶ πάντα πωλῶν κατανάλωσεν εἰς τὴν τῶν ἵππων τροφήν. οἱ οὖν φίλοι ἀνδροφάγους τοὺς ἵππους ὠνόμασαν. ὧν γενομένων προήχθη ὁ μῦθος.
+What they say about the horses of Diomedes is that they were man-eaters: how laughable! Horses much prefer grass and barley to human flesh! The truth is as follows. In the distant past men laboured for themselves and only by working the land did they get food and other such necessities. At some stage someone figured out how to keep horses and he took such pleasure in his horses that he ended up ruining himself by squandering everything he had to feed them. And from these actual events the myth spread.
+
+Q: what happened to Icarus?
+Q: who was the guy who had wings and flew from Crete
+Q: who made wings for Icarus to fly away from Crete
+Palaiphatos, On Unbelievable Stories, tlg1553.tlg001
+Φασὶν ὅτι Μίνως Δαίδαλον καὶ Ἴκαρον τὸν υἱὸν αὐτοῦ καθεῖρξε διά τινα αἰτίαν, Δαίδαλος δὲ ποιήσας πτέρυγας ἀμφοτέροις προσθετάς, ἐξέπτη μετὰ τοῦ Ἰκάρου. νοῆσαι δὲ ἄνθρωπον πετόμενον, ἀμήχανον, καὶ ταῦτα πτέρυγας ἔχοντα προσθετάς. τὸ οὖν λεγόμενον ἦν τοιοῦτον. Δαίδαλος ὢν ἐν τῇ εἱρκτῇ, καθεὶς ἑαυτὸν διὰ θυρίδος καὶ τὸν υἱὸν κατασπάσας, σκαφίδι ἐμβάς, ἀπῄει. αἰσθόμενος δὲ ὁ Μίνως πέμπει πλοῖα διώξοντα. οἱ δὲ ὡς ᾔσθοντο διωκόμενοι, ἀνέμου λάβρου καὶ φοροῦ ὄντος, πετόμενοι ἐφαίνοντο. εἶτα πλέοντες οὐρίῳ Κρητικῷ νότῳ ἐν τῷ πελάγει περιτρέπονται· καὶ ὁ μὲν Δαίδαλος περισῴζεται εἰς τὴν γῆν, ὁ δὲ Ἴκαρος διαφθείρεται ὅθεν ἀπ’ ἐκείνου Ἰκάριον πέλαγος ἐκλήθη, ἐκβληθέντα δὲ ὑπὸ τῶν κυμάτων ὁ πατὴρ ἔθαψεν.
+They say that Minos imprisoned Daidalos and his son Icaros for some reason and that Daidalos made wings for both of them, put them on, and flew away with Icaros. To think that a man could fly, even wearing wings: impossible! What actually happened is as follows. Daidalos was being held in a prison. He let himself out through a window and – pulling his son down with him – embarked on a small boat and got away. When Minos realised this, he sent ships to pursue them. When they realised that they were being pursued, there was a strong, favourable wind and it seemed as if they were flying. Soon, as they were sailing with a fair south wind from Crete, they capsized. Daidalos reached the shore safely, but Icaros perished. (And from him this sea is called the Icarian.) His body was tossed ashore by the waves and his father buried him.
+
+Q: who was the guy who had wings and flew from Crete
+Q: who made wings for Icarus to fly away from Crete
+Apollodorus of Athens, Epitome, tlg0548.tlg002
+ὅτι Μίνως, αἰσθόμενος τοῦ φεύγειν τοὺς μετὰ Θησέως, Δαίδαλον αἴτιον ἐν τῷ λαβυρίνθῳ μετὰ τοῦ παιδὸς Ἰκάρου καθεῖρξεν, ὃς ἐγεγέννητο αὐτῷ ἐκ δούλης Μίνωος Ναυκράτης. ὁ δὲ πτερὰ κατασκευάσας ἑαυτῷ καὶ τῷ παιδὶ ἀναπτάντι ἐνετείλατο μήτε εἰς ὕψος πέτεσθαι, μὴ τακείσης τῆς κόλλης ὑπὸ τοῦ ἡλίου αἱ πτέρυγες λυθῶσι, μήτε ἐγγὺς θαλάσσης, ἵνα μὴ τὰ πτερὰ ὑπὸ τῆς νοτίδος λυθῇ.
+On being apprized of the flight of Theseus and his company, Minos shut up the guilty Daedalus in the labyrinth, along with his son Icarus, who had been borne to Daedalus by Naucrate, a female slave of Minos. But Daedalus constructed wings for himself and his son, and enjoined his son, when he took to flight, neither to fly high, lest the glue should melt in the sun and the wings should drop off, nor to fly near the sea, lest the pinions should be detached by the damp.
+
+Q: who gave Odysseus the wind in a bag?
+Q: who gave Ulysses the wind in a bag?
+Palaiphatos, On Unbelievable Stories, tlg1553.tlg001
+Λέγεται ὅτι Αἴολος ἄνθρωπος ἦν κυριεύων πνευμάτων, ὅστις ἔδωκεν Ὀδυσσεῖ τοὺς ἀνέμους ἐν ἀσκῷ· περὶ δὲ τούτου, ὡς οὐχ οἷόν τε γίνεσθαι, δῆλον εἶναι πᾶσιν οἶμαι. εἰκὸς δὲ ἀστρολόγον γενόμενον Αἴολον φράσαι Ὀδυσσεῖ τοὺς χρόνους καὶ καθ’ ἃς ἐπιτολὰς ἄνεμοί τινες πνευσοῦνται. φασὶ δὲ ὅτι καὶ χαλκοῦν τεῖχος τῇ πόλει αὐτοῦ περιεβέβλητο, ὅπερ ἐστὶ ψεῦδος· ὁπλίτας γὰρ εἶχε τὴν πόλιν αὐτοῦ φυλάττοντας.
+It is said that Aiolos was a man who ruled over the winds and that he gave them to Odysseus in a bag. I think it is clear to everyone that such a thing could not happen. It is likely that Aiolos was an astronomer and that he explained to Odysseus about the seasons and under which constellations which winds blew. They also say that his city was encircled by a wall of bronze, which is false: he had hoplites guarding his city.
+
+Q: who gave Odysseus the wind in a bag?
+Q: who gave Ulysses the wind in a bag?
+Apollodorus of Athens, Epitome, tlg0548.tlg002
+ἀναχθεὶς δὲ συμπάσαις ναυσὶ παραγίνεται εἰς Αἰολίαν νῆσον, ἧς ὁ βασιλεὺς ἦν Αἴολος. οὗτος ἐπιμελητὴς ὑπὸ Διὸς τῶν ἀνέμων καθεστήκει καὶ παύειν καὶ προΐεσθαι. ὃς ξενίσας Ὀδυσσέα δίδωσιν αὐτῷ ἀσκὸν βόειον, ἐν ᾧ κατέδησε τοὺς ἀνέμους, ὑποδείξας οἷς δεῖ χρῆσθαι πλέοντα, τοῦτον ἐν τῷ σκάφει καταδήσας. ὁ δὲ Ὀδυσσεὺς ἐπιτηδείοις ἀνέμοις χρώμενος εὐπλοεῖ, καὶ πλησίον Ἰθάκης ὑπάρχων ἤδη τὸν ἀναφερόμενον ἐκ τῆς πόλεως καπνὸν ἰδὼν ἐκοιμήθη.
+Having put to sea with all his ships, he came to the island of Aeolia, of which the king was Aeolus. He was appointed by Zeus keeper of the winds, both to calm them and to send them forth. Having entertained Ulysses, he gave him an oxhide bag in which he had bound fast the winds, after showing what winds to use on the voyage and binding fast the bag in the vessel. And by using suitable winds Ulysses had a prosperous voyage; and when he was near Ithaca and already saw the smoke rising from the town, he fell asleep.
+
+Q: How to baptize
+Q: Should people be baptized in running water?
+Didache, The Didache, or Teaching of the Twelve Apostles., tlg1311.tlg001
+Περὶ δὲ τοῦ βαπτίσματος, οὕτω βαπτίσατε: ταῦτα πάντα προειπόντες, βαπτίσατε εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος ἐν ὕδατι ζῶντι.
+Concerning baptism, baptise thus: Having first rehearsed all these things, baptise, in the Name of the Father and of the Son and of the Holy Spirit, in running water;
+
+Q: On what days of the week should I fast?
+Q: Should I fast on Mondays?
+Didache, The Didache, or Teaching of the Twelve Apostles., tlg1311.tlg001
+Αἱ δὲ νηστεῖαι ὑμῶν μὴ ἔστωσαν μετὰ τῶν ὑποκριτῶν. νηστεύουσι γὰρ δευτέρᾳ σαββάτων καὶ πέμπτῃ: ὑμεῖς δὲ νηστεύσατε τετράδα καὶ παρασκευήν.
+Let not your fasts be with the hypocrites, for they fast on Mondays and Thursdays, but do you fast on Wednesdays and Fridays.
+
+Q: Who carried the statue of Odysseus to Rome?
+Q: Where was the statue of Odysseus taken?
+Pausanias, Description of Greece, tlg0525.tlg001
+ἔστι δὲ καὶ ἀναθήματα ἐν κοινῷ τοῦ Ἀχαιῶν ἔθνους, ὅσοι προκαλεσαμένου τοῦ Ἕκτορος ἐς μονομαχίαν ἄνδρα Ἕλληνα τὸν κλῆρον ἐπὶ τῷ ἀγῶνι ὑπέμειναν. οὗτοι μὲν δὴ ἑστήκασι τοῦ ναοῦ τοῦ μεγάλου πλησίον, δόρασι καὶ ἀσπίσιν ὡπλισμένοι· ἀπαντικρὺ δὲ ἐπὶ ἑτέρου βάθρου πεποίηται Νέστωρ, τὸν ἑκάστου κλῆρον ἐσβεβληκὼς ἐς τὴν κυνῆν. τῶν δὲ ἐπὶ τῷ Ἕκτορι κληρουμένων ἀριθμὸν ὄντων ὀκτώ τὸν γὰρ ἔνατον αὐτῶν, τὴν τοῦ Ὀδυσσέως εἰκόνα, Νέρωνα κομίσαι λέγουσιν ἐς Ῥώμην , τῶν δὲ ὀκτὼ τούτων ἐπὶ μόνῳ τῷ
+There are also offerings dedicated by the whole Achaean race in common; they represent those who, when Hector challenged any Greek to meet him in single combat, dared to cast lots to choose the champion. They stand, armed with spears and shields, near the great temple. Right opposite, on a second pedestal, is a figure of Nestor, who has thrown the lot of each into the helmet. The number of those casting lots to meet Hector is now only eight, for the ninth, the statue of Odysseus, they say that Nero carried to Rome,
+
+Q: submit to bishops like the strings of a harp
+Ignatius, Epistles, tlg1443.tlg001
+ἀλλ̓ ἐπεὶ ἡ ἀγάπη οὐκ ἐᾷ με σιωπᾶν περὶ ὑμῶν, διὰ τοῦτο προέλαβον παρακαλεῖν ὑμᾶς, ὅπως συντρέχητε τῇ γνώμῃ τοῦ θεοῦ. καὶ γὰρ Ἰησοῦς Χριστός, τὸ ἀδιάκριτον ἡμῶν ζῆν, τοῦ πατρὸς ἡ γνώμη, ὡς καὶ οἱ ἐπίσκοποι, οἱ κατὰ τὰ πέρατα ὁρισθέντες, ἐν Ἰησοῦ Χριστοῦ γνώμῃ εἰσίν. Ὅθεν πρέπει ὑμῖν συντρέχειν τῇ τοῦ ἐπισκόπου γνώμῃ, ὅπερ καὶ ποιεῖτε. τὸ γὰρ ἀξιονόμαστον ὑμῶν πρεσβυτέριον, τοῦ θεοῦ ἄξιον, οὕτως συνήρμοσται τῷ ἐπισκόπῳ, ὡς χορδαὶ κιθάρᾳ. διὰ τοῦτο ἐν τῇ ὁμονοίᾳ ὑμῶν καὶ συμφώνῳ ἀγάπῃ Ἰησοῦς Χριστὸς ᾅδεται.
+But since love does not suffer me to be silent concerning you, for this reason I have taken upon me to exhort you that you live in harmony with the will of God. For Jesus Christ, our inseparable life, is the will of the Father, even as the bishops, who have been appointed throughout the world, are by the will of Jesus Christ. Therefore it is fitting that you should live in harmony with the will of the bishop, as indeed you do. For your justly famous presbytery, worthy of God, is attuned to the bishop as the strings to a harp. Therefore by your concord and harmonious love Jesus Christ is being sung.
+
+Q: do bishops have the authority of Jesus
+Ignatius, Epistles, tlg1443.tlg001
+Πάντες τῷ ἐπισκόπῳ ἀκολουθεῖτε, ὡς Ἰησοῦς Χριστὸς τῷ πατρί, καὶ τῷ πρεσβυτερίῳ ὡς τοῖς ἀποστόλοις. τοὺς δὲ διακόνους ἐντρέπεσθε ὡς θεοῦ ἐντολήν. μηδεὶς χωρὶς τοῦ ἐπισκόπου τι πρασσέτω τῶν ἀνηκόντων εἰς τὴν ἐκκλησίαν. ἐκείνη βεβαία εὐχαριστία ἡγείσθω, ἡ ὑπὸ ἐπίσκοπον οὖσα ἢ ᾧ ἄν αὐτὸς ἐπιτρέψῃ.
+See that you all follow the bishop, as Jesus Christ follows the Father, and the presbytery as if it were the Apostles. And reverence the deacons as the command of God. Let no one do any of the things appertaining to the Church without the bishop. Let that be considered a valid Eucharist which is celebrated by the bishop, or by one whom he appoints.
+
+Q: I want the beasts to devour me quickly
+Q: I hope the wild animals will consume me promptly
+Ignatius, Epistles, tlg1443.tlg001
+ὀναίμην τῶν θηρίων τῶν ἐμοὶ ἡτοιμασμένων καὶ εὔχομαι σύντομά μοι εὑρεθῆναι: ἃ καὶ κολακεύσω, συντόμως με καταφαγεῖν, οὐχ ὥσπερ τινῶν δειλαινόμενα οὐχ ἥψαντο. κἂν αὐτὰ δὲ ἄκοντα μὴ θελήσῃ, ἐγὼ προσβιάσομαι.
+I long for the beasts that are prepared for me; and I pray that they may be found prompt for me; I will even entice them to devour me promptly; not as has happened to some whom they have not touched from fear; even if they be unwilling of themselves, I will force them to it.
+
+Q: how was Peter the apostle killed?
+Q: was the apostle Peter crucified upside down?
+Q: was Paul the apostle killed by Nero?
+Eusebius of Caesaria, Historia Ecclesiastica, tlg2018.tlg002
+Τὰ μὲν δὴ κατὰ Ἰουδαίους ἐν τούτοις ἢν· τῶν δὲ ἱερῶν τοῦ σωτῆρος ἡμῶν ἀποστόλων τε καὶ μαθητῶν ἐφ’ ἅπασαν κατασπαρέντων τὴν οἰκουμένην, Θωμᾶς μέν, ὡς ἡ παράδοσις περιέχει, τὴν Παρθίαν εἴληχεν, Ἀνδρέας δὲ τὴν Σκυθίαν, Ἰωάννης τὴν Ἀσίαν, πρὸς οὓς καὶ διατρίψας ἐν Ἐφέσῳ τελευτᾷ, Πέτρος δ’ ἐν Πόντῳ καὶ Γαλατίᾳ καὶ Βιθυνίᾳ Καππαδοκίᾳ τε καὶ Ἀσίᾳ κεκηρυχέναι τοῖς ἐκ διασπορᾶς Ἰουδαίοις ἔοικεν· ὃς καὶ ἐπὶ τέλει ἐν Ῥώμῃ γενόμενος, ἀνεσκολοπίσθη κατὰ κεφαλῆς, οὕτως αὐτὸς ἀξιώσας παθεῖν. τί δεῖ περὶ Παύλου λέγειν, ἀπὸ Ἱερπουσαλὴμ μέχρι τοῦ Ἰλλυρικοῦ πεπληρωκότος τὸ εὐαγγέλιον τοῦ Χριστοῦ καὶ ὕστερον ἐν τῆ Ῥώμῃ ἐπὶ Νέρωνος μεμαρτυρηκότος; ταῦτα Ὠριγένει κατὰ λέξιν ἐν τρίτῳ τόμῳ τῶν εἰς τὴν Γένεσιν ἐξηγητικῶν εἴρηται.
+Such was the condition of things among the Jews, but the holy Apostles and disciples of our Saviour were scattered throughout the whole world. Thomas, as tradition relates, obtained by lot Parthia, Andrew Scythia, John Asia (and he stayed there and died in Ephesus), but Peter seems to have preached to the Jews of the Dispersion in Pontus and Galatia and Bithynia, Cappadocia, and Asia, and at the end he came to Rome and was crucified head downwards, for so he had demanded to suffer. What need be said of Paul, who fulffiled the gospel of Christ from Jerusalem to Illyria and afterward was martyred in Rome under Νerο? This is stated exactly by Οrigen in the third volume of his commentary on Genesis.
+
+Q: how many authentic epistles of Clement of Rome are there
+Q: is the epistle of Clement to the Corinthians authentic?
+Eusebius of Caesaria, Historia Ecclesiastica, tlg2018.tlg002
+δωδεκάτῳ δὲ ἔτει τῆς αὐτῆς ἡγεμονίας τῆς Ῥωμαίων ἐκκλησίας Ἀνέγκλητον ἔτεσιν ἐπισκοπεύσαντα δεκαδύο διαδέχεται Κλήμης, ὃν συνεργὸν ἑαυτοῦ γενέσθαι Φιλιππησίοις, ἐπιστέλλων ὁ ἀπόστολος διδάσκει, λέγων “μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου, ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς.” Τούτου δὴ οὖν ὁμολογουμένη μία ἐπιστολὴ φέρεται, μεγάλη τε καὶ θαυμασία, ἢν ὡς ἀπὸ τῆς ’Ρωμαίων ἐκκλησίας τῇ Κορινθίων διετυπώσατο, στάσεως τηνικάδε κατὰ τὴν Κόρινθον γενομένης. ταύτην δὲ καὶ ἐν πλείσταις ἐκκλησίαις ἐπὶ τοῦ κοινοῦ δεδημοσιευμένην πάλαι τε καὶ καθ’ ἡμᾶς αὐτοὺς ἔγνωμεν. καὶ ὅτι γε κατὰ τὸν δηλούμενον τὰ τῆς Κορινθίων κεκίνητο στάσεως, ἀξιόχρεως μάρτυς ὁ Ἡγήσιππος.
+XV. Αnd in the twelfth year of the same reign, Clement succeeded Anencletus after he had been bishop of the church of the Romans for twelve years. The apostle states that he had been his –worker in his epistle to the Philippians saying, “With Clement and my other fellow-workers whose names are in book οf Life.” XVI. There is one recognized epistle of Clement, long and wonderful, which he drew up for the church of the Corinthians in the name of the church of the Romans when there had been dissension in Corinth. We have ascertained that this letter was publicly read in the common assembly in many churches both in the days of old and in our own time; and that the affairs οf Corinth were disturbed by dissension in his day is adequately testified to by Hegesippus.
+
+Q: difference between the philosphy of Plato and Aristotle
+Q: did Plato think that forms have existence apart from matter?
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+ἰδέα ἐστὶν οὐσία ἀσώματος, αὐτὴ μὲν μὴ ὑφεστῶσα καθ’ αὑτήν, εἰκονίζουσα δὲ τὰς ἀμόρφους; ὔλας καὶ αἰτία γινομένη τῆς τούτων δείξεως. Σωκράτης καὶ Πλάτων χωριστὰς τῆς ὕλης οὐσίας τὰς ἰδέας ὑπολαμβάνει, ἐν τοῖς νοήμασι καὶ ταῖς· φαντασίαις τοῦ θεοῦ, τουτέστι τοῦ νοῦ, ὑφεστώσας. Ἀριστοτέλης δ’ εἴδη μὲν ἀπέλιπε καὶ ἰδέας, οὐ μὴν κεχωρισμένας τῆς ὕλης, ὃ ἐξ ὧν γεγονὸς τὸ ὑπὸ τοῦ θεοῦ. οἱ ἀπὸ Ζήνωνος Στωικοὶ ἐννοήματα ἡμέτερα τὰς ἰδέας ἔφασαν.
+AN idea is a being incorporeal, which has no subsistence by itself, but gives figure and form unto shapeless matter, and becomes the cause of its manifestation. Socrates and Plato conjecture that these ideas are essences separate from matter, having their existence in the understanding and fancy of the Deity, that is, of mind. Aristotle objected not to forms and ideas; but he doth not believe them separated from matter, or patterns of what God has made. Those Stoics, that are of the school of Zeno, profess that ideas are nothing else but the conceptions of our own mind.
+
+Q: what are Plato's three kinds of causes
+Q: what did Plato say are the three types of causation
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+αἴτιόν ἐστι δι’ ὃ τὸ ἀποτέλεσμα ἢ δι’ ὃ συμβαίνει τι. Πλάτων τριχῶς τὸ αἴτιον· φησὶ γὰρ ὑφ’ οὗ ἐξ. οὗ πρὸς ὅ· κυριώτερον δ’ ἡγεῖται τὸ ὑφ’ οὗ· τοῦτο δ’ ἦν τὸ ποιοῦν, ὅ ἐστι νοῦς. Πυθαγόρας καὶ Ἀριστοτέλης τὰ μὲν πρῶτα αἴτια ἀσώματα, τὰ δὲ κατὰ μετοχὴν ἢ κατὰ συμβεβηκὸς τῆς σωματικῆς ὑποστάσεως· ὥστ’ εἶναι τὸν κόσμον σῶμα. οἱ Στωικοὶ πάντα τὰ αἴτια σωματικά· πνεύματα γάρ.
+A CAUSE is that by which any thing is produced, or by which any thing is effected. Plato gives this triple division of causes, the material, the efficient, and the final cause; the principal cause he judges to be the efficient, which is the mind and intellect. Pythagoras and Aristotle judge the first causes are incorporeal beings, but those that are causes by accident or participation become corporeal substances; by this means the world is corporeal. The Stoics grant that all causes are corporeal, inasmuch as they are breath.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ μὲν· οὖν περὶ Ἀριστοτέλην καὶ Πλάτωνα διαφέρειν ἡγοῦνται ἀρχὴν καὶ στοιχεῖα, Θαλῆς δ’ ὁ Μιλήσιος ταὐτὸν νομίζει ἀρχὴν καὶ στοιχεῖα. πλεῖστον δ’ ὅσον διαφέρει ἀλλήλων τὰ μὲν γὰρ στοιχεῖά ἐστι σύνθετα, τὰς δ’ ἀρχάς φαμεν εἶναι οὔτε συνθέτους οὔτ’ ἀποτελέσματα οἷον στοιχεῖα μὲν καλοῦμεν γῆν ὕδωρ ἀέρα πῦρ· ἀρχὰς δὲ λὲγομεν διὰ τοῦτο, ὅτι οὐκ ἔχει τι πρότερον ἐξ οὗ γεννᾶται, ἐπεὶ οὐκ ἔσται ἀρχὴ τοῦτο, ἀλλ’ ἐκεῖνο ἐξ οὗ γεγέννηται. τῆς δὲ γῆς καὶ τοῦ ὕδατος ἔστι τινὰ πρότερα ἐξ ὧν γέγονεν, ἡ ὕλη ἄμορφος οὖσα καὶ ἀειδής, καὶ τὸ εἶδος ὃ καλοῦμεν ἐντελέχειαν, καὶ ἡ στέρησις. ἁμαρτάνει οὖν ὁ Θαλῆς στοιχεῖον καὶ ἀρχὴν λέγων τὸ ὕδωρ,
+THE followers of Aristotle and Plato conclude that the elements are discriminated from a principle. Thales the Milesian supposeth that a principle and the elements are one and the same thing, but it is evident that they vastly differ one from another. For the elements are things compounded; but we do pronounce that principles admit not of a composition, nor are the effects of any other being. Those which we call elements are earth, water, air, and fire. But we term those principles which have nothing precedent to them out of which they are produced; for otherwise not these themselves, but rather those things whereof they are produced, would be the principles. Now there are some things which have a pre-existence to earth and water, from which they are begotten; to wit, matter, which is without form or shape; then form, which we call e)ntele/xeia (actuality); and lastly, privation. Thales therefore is very peccant, by affirming that water is both an element and a principle.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+τὰ δὴ τέτταρα στοιχεῖα εἶναι ὁμοῦ τὴν ἄποιον οὐσίαν τὴν ὕλην· εἶναι δὲ τὸ μὲν πῦρ τὸ θερμόν, τὸ δ’ ὕδωρ τὸ ὑγρόν, τόν τ’ ἀέρα τὸ ψυχρὸν καὶ τὴν γῆν τὸ ξηρόν. οὐ μὴν ἀλλὰ καὶ ἔτι ἐν τῷ ἀέρι εἶναι τὸ αὐτὸ μέρος. ἀνωτάτω μὲν οὖν εἶναι τὸ πῦρ, ὃ δὴ αἰθέρα καλεῖσθαι, ἐν ᾧ πρώτην τὴν τῶν ἀπλανῶν σφαῖραν γεννᾶσθαι, εἶτα τὴν τῶν πλανωμένων· μεθ’ ἣν τὸν ἀέρα, εἶτα τὸ ὕδωρ, ὑποστάθμην δὲ πάντων τὴν γῆν, μέσην ἁπάντων οὖσαν. Λέγουσι δὲ κόσμον τριχῶς· αὐτόν τε τὸν θεὸν τὸν ἐκ τῆς ἁπάσης οὐσίας ἰδίως ποιόν, ὃς δὴ ἄφθαρτός ἐστι καὶ ἀγένητος, δημιουργὸς ὢν τῆς διακοσμήσεως, κατὰ χρόνων ποιὰς περιόδους ἀναλίσκων εἰς ἑαυτὸν τὴν ἅπασαν οὐσίαν καὶ πάλιν ἐξ ἑαυτοῦ γεννῶν.
+The four elements together constitute unqualified substance or matter. Fire is the hot element, water the moist, air the cold, earth the dry. Not but what the quality of dryness is also found in the air. Fire has the uppermost place; it is also called aether, and in it the sphere of the fixed stars is first created; then comes the sphere of the planets, next to that the air, then the water, and lowest of all the earth, which is at the centre of all things. The term universe or cosmos is used by them in three senses: (1) of God himself, the individual being whose quality is derived from the whole of substance; he is indestructible and ingenerable, being the artificer of this orderly arrangement, who at stated periods of time absorbs into himself the whole of substance and again creates it from himself.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ μὲν ἀρχαῖοι τὰς τῶν στοιχείων μίξεις κατ’ ἀλλοίωσιν. οἱ δὲ περὶ Ἀναξαγόραν καὶ Δημόκριτον κατὰ παράθεσιν. Ἐμπεδοκλῆς δ’ ἐκ μικροτέρων ὄγκων τὰ στοιχεῖα συγκρίνει, ἅπερ ἐστὶν ἐλάχιστα καὶ οἱονεὶ στοιχεῖα στοιχείων. Πλάτων τὰ μὲν τρία σώματα οὐ γὰρ θέλει κυρίως αὐτὰ εἶναι στοιχεῖα ἢ προσονομάζειν’ τρεπτὰ εἰς ἄλληλα, πῦρ ἀέρα ὕδωρ· τὴν δὲ γῆν εἴς τι τούτων ἀμετάβλητον.
+THE ancient philosophers held that the mixture of elements proceeded from the alteration of qualities; but the disciples of Anaxagoras and Democritus say it is done by apposition. Empedocles composes the elements of still smaller bulks, those which are the most minute and may be termed the elements of elements. Plato assigns three bodies (but he will not allow these to be elements, nor properly so called), air, fire, and water, which are mutable into one another; but the earth is mutable into none of these.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+τραπέσθαι δὲ τὴν οὐσίαν ταύτην εἰς τὰ τέτταρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν· ἐξ ὧν αὐτόν τε τὸν κόσμον καὶ τὰ ἐν αὐτῷ γεννᾶσθαι. μόνην δὲ τὴν γῆν ἀμετάβολον εἶναί φησι, νομίζων αἰτίαν τὴν τῶν σχημάτων διαφορὰν ἐξ ὧν σύγκειται. τῶν μὲν γὰρ ἄλλων ὁμογενῆ φησιν εἶναι τὰ σχήματα ἅπαντα γὰρ ἐξ ἑνὸς συγκεῖσθαι τοῦ προμήκους τριγώνου τῆς δὲ γῆς ἴδιον εἶναι τὸ σχῆμα· πυρὸς μὲν γὰρ εἶναι στοιχεῖον πυραμίδα, ἀέρος τὸ ὀκτάεδρον, ὕδατος τὸ εἰκοσάεδρον, γῆς δὲ κύβον. ὅθεν μήτε γῆν εἰς ταῦτα μεταβάλλειν, μήτε ταῦτα εἰς γῆν.
+This substance, he says, is converted into the four elements, fire, water, air, earth, of which the world itself and all that therein is are formed. Earth alone of these elements is not subject to change, the assumed cause being the peculiarity of its constituent triangles. For he thinks that in all the other elements the figures employed are homogeneous, the scalene triangle out of which they are all put together being one and the same, whereas for earth a triangle of peculiar shape is employed; the element of fire is a pyramid, of air an octahedron, of water an icosahedron, of earth a cube. Hence earth is not transmuted into the other three elements, nor these three into earth.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Plutarch, Whether water or fire be most useful, tlg0007.tlg128
+ἢ πρὸς τοὐναντίον ἄν τις ἐντεῦθεν ἔχων λέγοι; διότι τέτταρα μὲν στοιχεῖα θεῷ καθάπερ τεχνίτῃ πρὸς τὴν τῶν ὅλων ἐργασίαν ὑποκείμενα, τούτων δ’ αὖ πάλιν ἀλλήλοις διαφορά, πλὴν γῆ μὲν καὶ ὕδωρ ὑποβέβληται δίκην ὕλης ποιούμενα καὶ πλαττόμενα καὶ μετέχοντα κόσμου καὶ τάξεως καὶ τοῦ φύειν γε, φασί, καὶ γεννᾶν, ὅσον ἂν μεταλάβῃ παρ’ ἑτέρων, πνεῦμά μὲν καὶ πῦρ ποιούντων καὶ δημιουργούντων καὶ κείμενα νεκρὰ τέως ἐπὶ τὴν γένεσιν ἀνιστάντων τῶν δὲ δυεῖν τούτων αὖθις τὸ πῦρ ἄρχει καὶ ἡγεμονεύει. δῆλον δ’ ἐκ τῆς ἐπαγωγῆς· γῆ τε γὰρ ἄνευ θερμῆς οὐσίας ἄγονος καὶ ἄκαρπος· τὸ δὲ πῦρ ἐκραὸς καὶ διαχέαν παρίστησιν εἰς τὴν γένεσιν ὀργῶντα οὐδεμίαν γὰρ αἰτίαν εὕροι τις ἄν, δι’ ἣν ἄγονοι πέτραι καὶ τὰ κατεσκληκότα τῶν ὀρῶν πᾶσιν ἢ ὅτι πυρὸς οὐδ’ ὅλως ἢ ὀλίγον μετέσχηκε.
+Or can any man speak as follows in defence of the contrary? We say then that God, as a master workman, had before him the four elements, to complete the fabric of the universe; and these again were different one from another. But earth and water were placed at the foundation, like matter, to be formed and fashioned, participating of form and order and of power to procreate and bring forth, so far as they are assisted by air and fire, — the great artificers that mould them into various shapes, — and lying dead till roused by them to act and generate. Of these two latter, fire is the ruling agent. This is manifest by induction. For earth without warmth and heat is altogether barren and unfruitful; but fire, by virtue of its rousing and inflaming quality, renders it diffusive, and swells it into generation. Nor can any man find out any other cause why rocks and the dry tops of mountains are not productive, but because they participate either nothing at all or very little of fire.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Q: creation of the world by God in the beginning
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+κατ’ ἀρχὰς μὲν οὖν καθ’ αὑτὸν ὄντα τρέπειν τὴν πᾶσαν οὐσίαν δι’ ἀέρος εἰς ὕδωρ· καὶ ὥσπερ ἐν τῇ γονῇ τὸ σπέρμα περιέχεται, οὕτω καὶ τοῦτον σπερματικὸν λόγον ὄντα τοῦ κόσμου, τοιόνδ’ ὑπολείπεσθαι ἐν τῷ ὑγρῷ, εὐεργὸν αὑτῷ ποιοῦντα τὴν ὕλην πρὸς τὴν τῶν ἑξῆς γένεσιν· εἶτ’ ἀπογεννᾶν πρῶτον τὰ τέσσαρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. λέγει δὲ περὶ αὐτῶν Ζήνων τ’ ἐν τῷ Περὶ τοῦ ὅλου καὶ Χρύσιππος ἐν τῇ πρώτῃ τῶν Φυσικῶν καὶ Ἀρχέδημος ἔν τινι Περὶ στοιχείων. ἔστι δὲ στοιχεῖον ἐξ οὗ πρώτου γίνεται τὰ γινόμενα καὶ εἰς ὃ ἔσχατον ἀναλύεται.
+In the beginning he was by himself; he transformed the whole of substance through air into water, and just as in animal generation the seed has a moist vehicle, so in cosmic moisture God, who is the seminal reason of the universe, remains behind in the moisture as such an agent, adapting matter to himself with a view to the next stage of creation. Thereupon he created first of all the four elements, fire, water, air, earth. They are discussed by Zeno in his treatise On the Whole, by Chrysippus in the first book of his Physics, and by Archedemus in a work On Elements. An element is defined as that from which particular things first come to be at their birth and into which they are finally resolved.
+
+Q: what are the four elements
+Q: fire, water, earth, and air
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+Ἐδόκει δ’ αὐτῷ τάδε· στοιχεῖα μὲν εἶναι τέτταρα, πῦρ, ὕδωρ, γῆν, ἀέρα· Φιλίαν θ’ ᾗ συγκρίνεται καὶ Νεῖκος ᾧ διακρίνεται. φησὶ δ’ οὕτω· Ζεὺς ἀργὴς Ἥρη τε φερέσβιος ἠδ’ Ἀϊδωνεὺς Νῆστίς θ’, ἣ δακρύοις τέγγει κρούνωμα βρότειον· Δία μὲν τὸ πῦρ λέγων, Ἥρην δὲ τὴν γῆν, Ἀϊδωνέα δὲ τὸν ἀέρα, Νῆστιν δὲ τὸ ὕδωρ. Καὶ ταῦτα, φησίν, ἀλλάττοντα διαμπερὲς οὐδαμὰ λήγει, ὡς ἂν ἀϊδίου τῆς τοιαύτης διακοσμήσεως οὔσης· ἐπιφέρει γοῦν· ἄλλοτε μὲν Φιλότητι συνερχόμεν’ εἰς ἓν ἅπαντα, ἄλλοτε δ’ αὖ δίχ’ ἕκαστα φορεύμενα Νείκεος ἔχθει.
+His doctrines were as follows, that there are four elements, fire, water, earth and air, besides friendship by which these are united, and strife by which they are separated. These are his words: Shining Zeus and life-bringing Hera, Aidoneus and Nestis, who lets flow from her tears the source of mortal life, where by Zeus he means fire, by Hera earth, by Aidoneus air, and by Nestis water. And their continuous change, he says, never ceases, as if this ordering of things were eternal. At all events he goes on: At one time all things uniting in one through Love, at another each carried in a different direction through the hatred born of strife.
+
+Q: what is the moon made of
+Q: is the moon bigger than the earth
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+Ἀναξίμανδρος κύκλον εἶναι ἐννεακαιδεκαπλασίονα τῆς γῆς, ὥσπερ τὸν τοῦ ἡλίου πλήρη πυρός ἐκλείπειν δὲ κατὰ τὰς ἐπιστροφὰς τοῦ τροχοῦ· ὅμοιον γὰρ εἶναι ἁρματείῳ τροχῷ κοίλην ἔχοντι τὴν ἁψῖδα καὶ πλήρη πυρός, ἔχοντι μίαν ἐκπνοήν. Ξενοφάνης νέφος εἶναι πεπιλημένον. οἱ Στωικοὶ μικτὴν ἐκ πυρὸς καὶ ἀέρος Πλάτων ἐκ πλείονος τοῦ πυρώδους. Ἀναξαγόρας Δημόκριτος στερέωμα διάπυρον, ἔχον ἐν ἑαυτῷ πεδία καὶ ὄρη καὶ φάραγγας. Ἡράκλειτος γῆν ὁμίχλῃ περιειλημμένην. Πυθαγόρας κατοπτροειδὲς σῶμα.
+Anaximander affirms that the circle of the moon is nineteen times bigger than the earth, and resembles the sun, its orb being full of fire; and it suffers an eclipse when the wheel turneth,which he describes by the divers turnings of a chariot-wheel, in the midst of it there being a hollow replenished with fire, which hath but one way of expiration. Xenophanes, that it is a condensed cloud. The Stoics, that it is mixed of fire and air. Plato, that it is a body of the greatest part earthy. Anaxagoras and Democritus, that it is a solid, condensed, and fiery body, in which there are champaign countries, mountains, and valleys. Heraclitus, that it is an earth covered with a cloud. Pythagoras, that the body of the moon was of a nature like a mirror.
+
+Q: what is the moon made of
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+Γεωδεστέραν δὲ τὴν σελήνην, ἅτε καὶ προσγειοτέραν οὖσαν. τρέφεσθαι δὲ τὰ ἔμπυρα ταῦτα καὶ τὰ ἄλλα ἄστρα, τὸν μὲν ἥλιον ἐκ τῆς μεγάλης θαλάττης νοερὸν ὄντα ἄναμμα· τὴν δὲ σελήνην ἐκ ποτίμων ὑδάτων, ἀερομιγῆ τυγχάνουσαν καὶ πρόσγειον οὖσαν, ὡς ὁ Ποσειδώνιος ἐν τῷ ἕκτῳ τοῦ Φυσικοῦ λόγου· τὰ δ’ ἄλλα ἀπὸ τῆς γῆς. δοκεῖ δ’ αὐτοῖς σφαιροειδῆ εἶναι καὶ τὰ ἄστρα καὶ τὴν γῆν ἀκίνητον οὖσαν. τὴν δὲ σελήνην οὐκ ἴδιον ἔχειν φῶς, ἀλλὰ παρ’ ἡλίου λαμβάνειν ἐπιλαμπομένην. Ἐκλείπειν δὲ τὸν μὲν ἥλιον ἐπιπροσθούσης αὐτῷ σελήνης κατὰ τὸ πρὸς ἡμᾶς μέρος, ὡς Ζήνων ἀναγράφει ἐν τῷ Περὶ τοῦ ὅλου.
+The moon, however, is of a more earthy composition, since it is nearer to the earth. These fiery bodies and the stars generally derive their nutriment, the sun from the wide ocean, being a fiery kindling, though intelligent; the moon from fresh waters, with an admixture of air, close to the earth as it is: thus Posidonius in the sixth book of his Physics; the other heavenly bodies being nourished from the earth. They hold that the stars are spherical in shape and that the earth too is so and is at rest; and that the moon does not shine by her own light, but by the borrowed light of the sun when he shines upon her. An eclipse of the sun takes place when the moon passes in front of it on the side towards us, as shown by Zeno with a diagram in his treatise On the Whole.
+
+Q: are there people living on the moon
+Q: is the moon inhabited
+Q: animals and plants on the moon
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ Πυθαγόρειοι γεώδη φαίνεσθαι τὴν σελήνην, διὰ τὸ περιοικεῖσθαι αὐτὴν καθάπερ τὴν παρ’ ἡμῖν γῆν μείζοσι ζῴοις καὶ φυτοῖς καλλίοσιν· εἶναι γὰρ πεντεκαιδεκαπλάσια τὰ ἐπ’ αὐτῆς ζῷα τῇ δυνάμει μηδὲν περιττωματικὸν ἀποκρίνοντα, καὶ τὴν ἡμέραν τοσαύτην τῷ μήκει. Ἀναξαγόρας ἀνωμαλότητα τοῦ συγκρίματος διὰ τὸ ψυχρομιγὲς ἅμα καὶ γεῶδες· παραμεμῖχθαι γὰρ τῷ πυροειδεῖ τὸ ζοφῶδες ὅθεν ψευδοφανῆ λέγεσθαι τὸν ἀστέρα. οἱ Στωικοὶ διὰ τὸ ἑτεροειδὲς τῆς οὐσίας μὴ εἶναι αὐτῆς ἀκήρατον τὸ σύγκριμα.
+The Pythagoreans say, that the moon appears to us terraneous, by reason it is inhabited as our earth is, and in it there are animals of a larger size and plants of a rarer beauty than our globe affords; that the animals in their virtue and energy are fifteen degrees superior to ours; that they emit nothing excrementitious; and that the days are fifteen times longer. Anaxagoras, that the reason of the inequality ariseth from the commixture of things earthy and cold; and that fiery and caliginous matter is jumbled together, whereby the moon is said to be a star of a counterfeit aspect. The Stoics, that by reason of the diversity of her substance the composition of her body is subject to corruption.
+
+Q: how far is the moon from the sun
+Q: how far away is the moon
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+Ἐμπεδοκλῆς διπλάσιον ἀπέχειν τὴν σελήνην ἀπὸ τοῦ ἡλίου ἤπερ ἀπὸ τῆς γῆς, οἱ ἀπὸ τῶν μαθηματικῶν ὀκτωκαιδεκαπλάσιον. Ἐρατοσθένης τὸν ἣλιον ἀπέχειν ἀπὸ τῆς γῆς σταδίων μυριάδας τετρακοσίας καὶ ὀκτακισμυρίας, τὴν δὲ σελήνην ἀπέχειν τῆς γῆς μυριάδας ἑβδομήκοντα ὀκτώ σταδίων.
+Empedocles affirms, that the distance of the moon from the sun is double her remoteness from the earth. The mathematicians, that her distance from the sun is eighteen times her distance from the earth. Eratosthenes, that the sun is remote from the earth seven hundred and eighty thousand furlongs.
+
+Q: what is the cause of winter
+Q: what is the cause of summer
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+Ἐμπεδοκλῆς καὶ οἱ Στωικοὶ χειμῶνα μὲν γίνεσθαι τοῦ ἀέρος ἐπικρατοῦντος τῇ πυκνώσει καὶ εἰς τὸ ἀνωτέρω βιαζομένου, θερείαν δὲ τοῦ πυρός, ὅταν εἰς τὸ κατωτέρω βιάζηται Περιγεγραμμένων δέ μοι τῶν μεταρσίων, ἐφοδευθήσεται καὶ τὰ πρόσγεια.
+Empedocles and the Stoics believe that winter is caused by the thickness of the air prevailing and mounting upwards; and summer by fire, it falling downwards. This description being given by me of Meteors, or those things that are above us, I must pass to those things which are terrestrial.
+
+Q: did Thales believe that the earth is a sphere?
+Q: did the Stoics think the earth was round?
+Q: the earth is a sphere
+Q: who thought the earth was shaped like a pillar?
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+Θαλῆς καὶ οἱ Στωικοὶ καὶ οἱ ἀπ’ αὐτῶν σφαιροειδῆ τὴν γῆν. Ἀναξίμανδρος λίθῳ κίονι τὴν γῆν προσφερῆ τῶν ἐπιπέδων. Ἀναξιμένης τραπεζοειδῆ. Λεύκιππος τυμπανοειδῆ. Δημόκριτος δισκοειδῆ μὲν τῷ πλάτει κοίλην δὲ τῷ μέσῳ.
+Thales, the Stoics, and their followers say that the earth is globular. Anaximander, that it resembles a smooth stony pillar. Anaximenes, that it hath the shape of a table. Leucippus, of a drum. Democritus, that it is like a quoit in its surface, and hollow in the middle.
+
+Q: did the Stoics think the earth was round?
+Q: the earth is a sphere
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ μὲν Στωικοὶ σφαιροειδῆ τὸν κόσμον, ἄλλοι δὲ κωνοειδῆ, οἱ δ’ ᾠοειδῆ. Ἐπίκουρος δ’ ἐνδέχεσθαι μὲν εἶναι σφαιροειδεῖς τοὺς κόσμους, ἐνδέχεσθαι δὲ καὶ ἑτέροις σχήμασι κεχρῆσθαι.
+THE Stoics say that the figure of the world is spherical, others that it is conical, others oval. Epicurus, that the figure of the world may be globular, or that it may admit of other shapes.
+
+Q: did the Stoics think the earth was round?
+Q: the earth is a sphere
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ Στωικοὶ σφαιροειδῆ εἶναι ὡς τὸν ἣλιον. Ἐμπεδοκλῆς δισκοειδῆ. Ἡράκλειτος σκαφοειδῆ. ἄλλοι κυλινδροειδῆ.
+THE Stoics believe that it is of the same figure with the sun, spherical. Empedocles, that the figure of it resembles a quoit. Heraclitus, a boat. Others, a cylinder.
+
+Q: the earth is a sphere
+Q: is the earth the center of the universe?
+Diogenes Laertius, Lives of Eminent Philosophers, tlg0004.tlg001
+Ἀρέσκει δ’ αὐτοῖς καὶ τὴν διακόσμησιν ὧδε ἔχειν· μέσην τὴν γῆν κέντρου λόγον ἐπέχουσαν, μεθ’ ἣν τὸ ὕδωρ σφαιροειδές, ἔχον τὸ αὐτὸ κέντρον τῇ γῇ, ὥστε τὴν γῆν ἐν ὕδατι εἶναι· μετὰ τὸ ὕδωρ δ’ ἀέρα ἐσφαιρωμένον. κύκλους δ’ εἶναι ἐν τῷ οὐρανῷ πέντε, ὧν πρῶτον ἀρκτικὸν ἀεὶ φαινόμενον, δεύτερον τροπικὸν θερινόν, τρίτον ἰσημερινόν, τέταρτον χειμερινὸν τροπικόν, πέμπτον ἀνταρκτικὸν ἀφανῆ. λέγονται δὲ παράλληλοι καθότι οὐ συννεύουσιν εἰς ἀλλήλους· γράφονται μέντοι περὶ τὸ αὐτὸ κέντρον. ὁ δὲ ζωδιακὸς λοξός ἐστιν, ὡς ἐπιὼν τοὺς παραλλήλους.
+They maintain that the parts of the world are arranged thus. The earth is in the middle answering to a centre; next comes the water, which is shaped like a sphere all round it, concentric with the earth, so that the earth is in water. After the water comes a spherical layer of air. There are five celestial circles: first, the arctic circle, which is always visible; second, the summer tropic; third, the circle of the equinox; fourth, the winter tropic; and fifth, the antarctic, which is invisible to us. They are called parallel, because they do not incline towards one another; yet they are described round the same centre. The zodiac is an oblique circle, as it crosses the parallel circles.
+
+Q: is the earth the center of the universe?
+Plutarch, Numa, tlg0007.tlg005
+τὴν δὲ γῆν οὔτε ἀκίνητον οὔτε ἐν μέσῳ τῆς περιφορᾶς οὖσαν, ἀλλὰ κύκλῳ περὶ τὸ πῦρ αἰωρουμένην οὐ τῶν τιμιωτάτων οὐδὲ τῶν πρώτων τοῦ κόσμου μορίων ὑπάρχειν. ταῦτα δὲ καὶ Πλάτωνά φασι πρεσβύτην γενόμενον διανενοῆσθαι περὶ τῆς γῆς ὡς ἐν ἑτέρᾳ χώρᾳ καθεστώσης, τὴν δὲ μέσην καὶ κυριωτάτην ἑτέρῳ τινὶ κρείττονι προσήκουσαν.
+And they hold that the earth is neither motionless nor situated in the centre of surrounding space, but that it revolves in a circle about the central fire, not being one of the most important, nor even one of the primary elements of the universe. This is the conception, we are told, which Plato also, in his old age, had of the earth, namely that it is established in a secondary space, and that the central and sovereign space is reserved for some other and nobler body.
+
+Q: is the earth the center of the universe?
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ ἀπὸ Θάλεω τὴν γῆν μέσην. Ξενοφάνης πρώτην, εἰς ἄπειρον γὰρ ἐρριζῶσθαι. Φιλόλαος ὁ Πυθαγόρειος τὸ μὲν πῦρ μέσον, τοῦτο γὰρ εἶναι τοῦ παντὸς ἑστίαν· δευτέραν δὲ τὴν ἀντίχθονα , τρίτην ἣν οἰκοῦμεν γῆν ἐξ ἐναντίας κειμένην τε καὶ περιφερομένην τῇ ἀντίχθονα παρ’ ὃ καὶ μὴ ὁρᾶσθαι ὑπὸ τῶν ἐν τῇδε τοὺς ἐν ἐκείνῃ. Παρμενίδης πρῶτος; ἀφώρισε τῆς γῆς τοὺς οἰκουμένους τόπους ὑπὸ ταῖς δυσὶ ζώναις ταῖς τροπικαῖς;.
+The disciples of Thales say that the earth is the centre of the universe. Xenophanes, that it is first, being rooted in the infinite space. Philolaus the Pythagorean gives to fire the middle place, and this is the hearth-fire of the universe; the second place to the Antichthon; the third to that earth which we inhabit, which is seated in opposition unto and whirled about the opposite,which is the reason that those which inhabit that earth cannot be seen by us. Parmenides was the first that confined the habitable world to the two solstitial (or temperate) zones.
+
+Q: how long did Moses fast on the mountain
+Q: how many days did Moses stay on Mount Sinai
+Q: did God write on the stone tablets with his finger and give them to Moses?
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+ἡμῶν μέν· ἀλλ’ ἐκεῖνοι οὕτως εἰς τέλος ἀπώλεσαν αὐτὴν λαβόντος ἤδη τοῦ Μωϋσέως. λέγει γὰρ ἡ γραφή· Καὶ ἦν Μωϋσῆς ἐν τῷ ὄρει νηστεύων ἡμέρας τεσσαράκοντα καὶ νύκτας τεσσαράκοντα, καὶ ἔλαβεν τὴν διαθήκην ἀπὸ τοῦ κυρίου, πλάκας λιθίνας γεγραμμένας τῷ δακτύλῳ τῆς χειρὸς τοῦ κυρίου.
+It is ours: but in this way did they finally lose when Moses had just received it, for the Scripture says: And Moses was in the mount fasting forty days and forty nights, and he received the covenant from the Lord, tables of stone written with the finger of the hand of the Lord.
+
+Q: how long did Moses fast on the mountain
+Q: how many days did Moses stay on Mount Sinai
+Clement of Rome, The First Epistle of Clement to the Corinthians, tlg1271.tlg001
+Μωῦσέως γὰρ ἀναβάντος εἰς τὸ ὄρος καὶ ποιήσαντος τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα νύκτας ἐν νηστείᾳ καὶ ταπεινώσει, εἶπεν πρὸς αὐτὸν ὁ θεός: Κατάβηθι τὸ τάχος ἐντεῦθεν, ὅτι ἠνόμησεν ὁ λαός σου, οὓς ἐξήγαγες ἐκ γῆς Αἰγύπτου: παρέβησαν ταχὺ ἐκ τῆς ὁδοῦ ἧς ἐνετείλω αὐτοῖς, ἐποίησαν ἑαυτοῖς χωνεύματα.
+For when Moses went up into the mountain, and passed forty days and forty nights in fasting and humiliation, God said to him:—Go down hence quickly, for thy people, whom thou didst bring out of the land of Egypt, have committed iniquity; they have quickly gone aside out of the way which thou didst command them; they have made themselves molten images.
+
+Q: how long did Moses fast on the mountain
+Q: how many days did Moses stay on Mount Sinai
+Q: did God write on the stone tablets with his finger and give them to Moses?
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+λέγει γὰρ ὁ προφήτης· Καὶ ἦν Μωϋσῆς νηστεύων ἐν ὄρει Σινᾶ, τοῦ λαβεῖν τὴν διαθήκην κυρίου πρὸς τὸν λαόν, ἡμέρας τεσσεράκοντα καὶ νύκτας τεσσεράκοντα. καὶ ἔλαβεν Μωϋσῆς παρὰ κυρίου τὰς δύο πλάκας τὰς γεγραμμένας τῷ δακτύλῳ τῆς χειρὸς κυρίου ἐν πνεύματι· καὶ λαβὼν Μωϋσῆς κατέφερεν πρὸς τὸν λαὸν δοῦναι.
+For the Prophet says, And Moses was fasting on Mount Sinai, to receive the covenant of the Lord for the people, forty days and forty nights. And Moses received from the Lord the two tables, written by the finger of the hand of the Lord in the Spirit ; and Moses took them, and carried them down to give them to the people.
+
+Q: why did Moses hate weasels?
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+ἀλλὰ καὶ τὴν γαλῆν ἐμίσησεν καλῶς. οὐ μή, φησίν, γενηθῇς τοιοῦτος, οἵους ἀκούομεν ἀνομίαν ποιοῦντας ἐν τῷ στόματι δι’ ἀκαθαρσίαν, οὐδὲ κολληθήσῃ ταῖς ἀκαθάρτοις ταῖς τὴν ἀνομίαν ποιούσαις ἐν τῷ στόματι. τὸ γὰρ ζῷον τοῦτο τῷ στόματι κύει.
+Moreover Moses abhors the weasel rightly. Thou shalt not, he says, become such a person—such men as we hear committing lawlessness in their mouths because of uncleanliness; nor shalt thou cleave to women who are unclean and who commit lawlessness in their mouths. For this animal gives birth with its mouth.
+
+Q: why did Moses make a statue of a serpent?
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+πέρας γέ τοι αὐτὸς Μωϋσῆς ἐντειλάμενος· Οὐκ ἔσται ὑμῖν οὔτε χωνευτὸν οὔτε γλυπτὸν εἰς θεὸν ὑμῖν. αὐτὸς ποιεῖ, ἵνα τύπον τοῦ Ἰησοῦ δείξῃ. ποιεῖ οὖν Μωϋσῆς χαλκοῦν ὄφιν καὶ τίθησιν ἐνδόξως καὶ κηρύγματι καλεῖ τὸν λαόν.
+Moreover, though Moses commanded them:—You shall have neither graven nor molten image for your God, yet he makes one himself to show a type of Jesus. Moses therefore makes a graven serpent, and places it in honour and calls the people by a proclamation.
+
+Q: why did Moses make a statue of a serpent?
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+πάλιν Μωϋσῆς ποιεῖ τύπον τοῦ Ἰησοῦ, ὅτι δεῖ αὐτὸν παθεῖν, καὶ αὐτὸς ζωοποιήσει, ὃν δόξουσιν ἀπολωλεκέναι, ἐν σημείῳ πίπτοντος τοῦ Ἰσραήλ, ἐποίησεν γὰρ κύριος πάντα ὄφιν δάκνειν αὐτούς, καὶ ἀπέθνησκον ἐπειδὴ ἡ παράβασις διὰ τοῦ ὄφεως ἐν Εὔᾳ ἐγένετὀ. ἵνα ἐλέγξῃ αὐτούς. ὅτι διὰ τὴν παράβασιν αὐτῶν εἰς θλῖψιν θανάτου παραδοθήσονται.
+Again Moses makes a representation of Jesus, showing that he must suffer, and shall himself give life, though they will believe that he has been put to death, by the sign given when Israel was falling (for the Lord made every serpent bite them, and they were perishing, for the fall took place in Eve through the serpent), in order to convince them that they will be delivered over to the affliction of death because of their transgression.
+
+Q: how many times was Peter the apostle imprisoned
+Clement of Rome, The First Epistle of Clement to the Corinthians, tlg1271.tlg001
+Πέτρον, ὅς διὰ ζῆλον ἄδικον οὐχ ἕνα οὐδὲ δύο, ἀλλὰ πλείονας ὑπήνεγκεν πόνους καὶ οὕτω μαρτυρήσας ἐπορεύθη εἰς τὸν ὀφειλόμενον τόπον τῆς δόξης. ἑπτάκις δεσμὰ φορέσας, φυγαδευθείς, λιθασθείς, κήρυξ γενόμενος ἔν τε τῇ ἀνατολῇ καὶ ἐν τῇ δύσει, τὸ γενναῖον τῆς πίστεως αὐτοῦ κλέος ἔλαβεν,
+Peter, who because of unrighteous jealousy suffered not one or two but many trials, and having thus given his testimony went to the glorious place which was his due. seven times he was in bonds, he was exiled, he was stoned, he was a herald both in the East and in the West, he gained the noble fame of his faith,
+
+Q: did the Romans have pet puppies?
+Q: did Caesar like puppies
+Q: Romans with little monkeys as pets
+Plutarch, Pericles, tlg0007.tlg012
+ξένους τινὰς ἐν Ῥώμῃ πλουσίους κυνῶν τέκνα καὶ πιθήκων ἐν τοῖς κόλποις περιφέροντας καὶ ἀγαπῶντας ἰδὼν ὁ Καῖσαρ, ὡς ἔοικεν, ἠρώτησεν εἰ παιδία παρ’ αὐτοῖς οὐ τίκτουσιν αἱ γυναῖκες, ἡγεμονικῶς σφόδρα νουθετήσας τοὺς τὸ φύσει φιλητικὸν ἐν ἡμῖν καὶ φιλόστοργον εἰς θηρία καταναλίσκοντας ἀνθρώποις ὀφειλόμενον.
+On seeing certain wealthy foreigners in Rome carrying puppies and young monkeys about in their bosoms and fondling them, Caesar asked, we are told, if the women in their country did not bear children, thus in right princely fashion rebuking those who squander on animals that proneness to love and loving affection which is ours by nature, and which is due only to our fellow-men.
+
+Q: how many senses are there?
+Q: what are the five senses?
+Pseudo-Plutarch, Placita Philosophorum, tlg0094.tlg003
+οἱ Στωικοὶ πέντε τὰς εἰδικὰς αἰσθήσεις, ὅρασιν ἀκοὴν ὄσφρησιν γεῦσιν ἁφήν. Ἀριστοτέλης ἕκτην μὲν οὐ λέγει, κοινὴν δ’ αἴσθησιν τὴν τῶν συνθέτων εἰδῶν κριτικήν, εἰς ἣν πᾶσαι συμβάλλουσιν αἱ ἁπλαῖ τὰς ἰδίας ἑκάστη φαντασίας· ἐν ᾗ τὸ μεταβατικὸν ἀφ’ ἑτέρου πρὸς ἕτερον, οἱονεὶ σχήματος καὶ κινήσεως, δείκνυται. Δημόκριτος πλείους εἶναι αἰσθήσεις, περὶ τὰ ἄλογα ζῷα καὶ περὶ τοὺς σοφοὺς καὶ περὶ τοὺς θεούς.
+THE Stoics say that there are five senses properly so called, seeing, hearing, smelling, tasting, and touching. Aristotle indeed doth not add a sixth sense; but he assigns a common sense, which is the judge of all compounded species; into this each sense casts its proper representation, in which is discovered a transition of one thing into another, like as we see in figure and motion where there is a change of one into another. Democritus, that there are several species of senses, which appertain to beings destitute of reason, to the Gods, and to wise men.
+
+Q: how many senses are there?
+Q: what are the five senses?
+Plutarch, Of the word ΕΙ engraven over the gate of Apollo's temple at Delphi., tlg0007.tlg090
+εἰσὶ δ’ οἳ καὶ τὰς τῶν αἰσθήσεων δυνάμεις ἰσαρίθμους οὔσας τοῖς πρώτοις ἐκείνοις συνοικειοῦσι, τὴν μὲν ἁφὴν ὁρῶντες ἀντίτυπον οὖσαν καὶ γεώδη, τὴν δὲ γεῦσιν ὑγρότητι τῶν γευστῶν τὰς ποιότητας προσιεμένην. ἀὴρ δὲ πληγεὶς ἐν ἀκοῇ γίγνεται φωνὴ καὶ ψόφος. δυεῖν δὲ τῶν λοιπῶν ὀσμὴ μέν, ἣν ἡ ὄσφρσις εἴληχεν, ἀναθυμίασις οὖσα καὶ γεννωμένη θερμότητι πυρῶδές ἐστιν· αἰθέρι δὲ καὶ φωτὶ διὰ συγγένειαν διαλαμπούσης τῆς ὄψεως γίγνεται κρᾶσις ἀμφοῖν ὁμοιοπαθὴς καὶ σύμπηξις. ἄλλην δ’ οὔτε τὸ ζῷον αἴσθησιν οὔτε ὁ κόσμος ἔχει φύσιν ἁπλῆν καὶ ἄμικτον ἀλλὰ θαυμαστή τις, ὡς ἔοικε, διανομὴ γέγονε τῶν πέντε πρὸς τὰ πέντε καὶ σύλληξις.
+There are some also who apply the faculties of the senses, being equal in number, to these five first bodies, seeing the touch to be firm and earthly, and the taste to perceive the qualities of savors by moisture. Now the air being struck upon is a voice and sound to the ear; and as for the other two,—the scent, which the smell has obtained for its object, being an exhalation and engendered by heat, is fiery; and the sight, which shines by reason of its affinity to the sky and light, has from them a temperature and complexion equally mingled of both. Now neither has any animal any other sense, nor the world any other nature simple and unmixed; but there has been made, as appears, a certain wonderful distribution and congruity of five to five.
+
+Q: what are the five senses?
+Xenophon, Memorabilia, tlg0032.tlg002
+οὐκοῦν δοκεῖ σοι ὁ ἐξ ἀρχῆς ποιῶν ἀνθρώπους ἐπ’ ὠφελείᾳ προσθεῖναι αὐτοῖς δι’ ὧν αἰσθάνονται ἕκαστα, ὀφθαλμοὺς μὲν ὥσθ’ ὁρᾶν τὰ ὁρατά, ὦτα δὲ ὥστ’ ἀκούειν τὰ ἀκουστά; ὀσμῶν γε μήν, εἰ μὴ ῥῖνες προσετέθησαν, τί ἂν ἡμῖν ὄφελος ἦν; τίς δ’ ἂν αἴσθησις ἦν γλυκέων καὶ δριμέων καὶ πάντων τῶν διὰ στόματος ἡδέων, εἰ μὴ γλῶττα τούτων γνώμων ἐνειργάσθη;
+Do you not think then that he who created man from the beginning had some useful end in view when he endowed him with his several senses, giving eyes to see visible objects, ears to hear sounds? Would odours again be of any use to us had we not been endowed with nostrils? What perception should we have of sweet and bitter and all things pleasant to the palate had we no tongue in our mouth to discriminate between them?
+
+Q: tree of the knowledge of good and evil
+Q: the tree of life in paradise
+Pseudo-Justin Martyr, The Epistle to Diogentus, tlg0646.tlg004
+ἐν γὰρ τούτῳ τῷ χωρίῳ ξύλον γνώσεως καὶ ξύλον ζωῆς πεφύτευται: ἀλλ̓ οὐ τὸ τῆς γνώσεως ἀναιρεῖ, ἀλλ̓ ἡ παρακοὴ ἀναιρεῖ. οὐδὲ γὰρ ἄσημα τὰ γεγραμμένα, ὡς θεὸς ἀπ̓ ἀρχῆς ξύλον γνώσεως καὶ ξύλον ζωῆς ἐν μέσῳ παραδείσου ἐφύτευσε, διὰ γνώσεως ζωὴν ἐπιδεικνύς: ᾗ μὴ καθαρῶς χρησάμενοι οἱ ἀπ̓ ἀρχῆς πλάνῃ τοῦ ὄφεως γεγύμνωνται.
+For in this garden has been planted the tree of knowledge and the tree of life, but the tree of knowledge does not kill, but disobedience kills. For that which was written is quite plain, that God in the beginning planted a tree of knowledge and a tree of life in the midst of Paradise, and showed that life is through knowledge. But those who did not use it in purity were in the beginning deprived of it by the deceit of the serpent;
+
+Q: how to be an imitator of God
+Pseudo-Justin Martyr, The Epistle to Diogentus, tlg0646.tlg004
+ἀλλ̓ ὅστις τὸ τοῦ πλησίον ἀναδέχεται βάρος, ὃς ἐν ᾧ κρείσσων ἐστὶν ἕτερον τὸν ἐλαττούμενον εὐεργετεῖν ἐθέλει, ὃς ἃ παρὰ τοῦ θεοῦ λαβὼν ἔχει, ταῦτα τοῖς ἐπιδεομένοις χορηγῶν θεὸς γίνεται τῶν λαμβανόντων, οὗτος μιμητής ἐστι θεοῦ.
+But whoever takes up the burden of his neighbour, and wishes to help another, who is worse off in that in which he is the stronger, and by ministering to those in need the things which he has received and holds from God becomes a god to those who receive them,—this man is an imitator of God.
+
+Q: how to be an imitator of God
+Pseudo-Justin Martyr, The Epistle to Diogentus, tlg0646.tlg004
+ἀγαπήσας δὲ μιμη τὴς ἔσῃ αὐτοῦ τῆς χρηστότητος. καὶ μὴ θαυμάσῃ εἰ δύναται μιμητὴς ἄνθρωπος γενέσθαι θεοῦ δύναται θέλοντος αὐτοῦ.
+But by your love you will imitate the example of his goodness. And do not wonder that it is possible for man to be the imitator of God; it is possible when he will.
+
+Q: how to be an imitator of God
+Ignatius, Epistles, tlg1443.tlg001
+Ἀποδεξάμενος ἐν θεῷ τὸ πολυαγάπητόν σου ὀνομα, ὃ κέκτησθε φύσει δικαίᾳ κατὰ πίστιν καὶ ἀγάπην ἐν Χριστῷ Ἰησοῦ, τῷ σωτῆρι ἡμῶν: μιμηταὶ ὄντες θεοῦ, ἀναζωπυρήσαντες ἐν αἵματι θεοῦ τὸ συγγενικὸν ἔργον τελείως ἀπηρτίσατε:
+I became acquainted through God with your much beloved name, which you have obtained by your righteous nature, according to faith and love in Christ Jesus our Saviour, You are imitators of God, and, having kindled your brotherly task by the blood of God, you completed it perfectly.
+
+Q: Do Christians wear special clothes
+Q: Do Christians live in cities of their own?
+Pseudo-Justin Martyr, The Epistle to Diogentus, tlg0646.tlg004
+τῆς μὲν οὖν κοινῆς εἰκαιότητος καὶ ἀπάτης καὶ τῆς Ἰουδαίων πολυπραγμοσύνης καὶ ἀλαζονείας ὡς ὀρθῶς ἀπέχονται Χριστιανοί, ἀρκούντως σε νομίζω μεμαθηκέναι: τὸ δὲ τῆς ἰδίας αὐτῶν θεοσεβείας μυστήριον μὴ προσδοκήσῃς δύνασθαι παρὰ ἀνθρώπου μαθεῖν. οὔτε γάρ που πόλεις ἰδίας κατοικοῦσιν οὔτε διαλέκτῳ τινὶ παρηλλαγμένῃ χρῶνται οὔτε βίον παράσημον ἀσκοῦσιν. οὐ μὴν ἐπινοίᾳ τινὶ καὶ φροντίδι πολυπραγμόνων ἀνθρώπων μάθημα τοῦτ̓ αὐτοῖς ἐστιν εὑρημένον, οὐδὲ δόγματος ἀνθρωπίνου προεστᾶσιν, ὥσπερ ἔνιοι. κατοικοῦντες δὲ πόλεις ἑλληνίδας τε καὶ βαρβάρους, ὡς ἕκαστος ἐκληρώθη, καὶ τοῖς ἐγχωρίοις ἔθεσιν ἀκολουθοῦντες ἔν τε ἐσθῆτι καὶ διαίτῃ καὶ τῷ λοιπῷ βίῳ θαυμαστὴν καὶ ὁμολογουμένως παράδοξον ἐνδείκνυνται τὴν κατάστασιν τῆς ἑαυτῶν πολιτείας. πατρίδας οἰκοῦσιν ἰδίας, ἀλλ̓ ὡς πάροικοι: μετέχουσι πάντων ὡς πολῖται, καὶ πάνθ̓ ὑπομένουσιν ὡς ξένοι: πᾶσα ξένη πατρίς ἐστιν αὐτῶν, καὶ πᾶσα πατρὶς ξένη.
+So then I think that you have learnt sufficiently that the Christians do rightly in abstaining from the general silliness and deceit and fussiness and pride of the Jews. But do not suppose that you can learn from man the mystery of the Christians’ own religion. For they do not dwell in cities in some place of their own, nor do they use any strange variety of dialect, nor practise an extraordinary kind of life. This teaching of theirs has not been discovered by the intellect or thought of busy men, nor are they the advocates of any human doctrine as some men are. Yet while living in Greek and barbarian cities, according as each obtained his lot, and following the local customs, both in clothing and food and in the rest of life, they show forth the wonderful and confessedly strange character of the constitution of their own citizenship. They dwell in their own fatherlands, but as if sojourners in them; they share all things as citizens, and suffer all things as strangers. Every foreign country is their fatherland, and every fatherland is a foreign country.
+
+Q: Do Christians live in cities of their own?
+Shepherd of Hermas, The Shepherd of Hermas, tlg1419.tlg001
+Λέγει μοι: Οἴδατε, φησίν, ὅτι ἐπὶ ξένης κατοικεῖτε ὑμεῖς οἱ δοῦλοι τοῦ θεοῦ: ἡ γὰρ πόλις ὑμῶν μακράν ἐστιν ἀπὸ τῆς πόλεως ταύτης: εἰ οὖν οἴδατε, φησί, τὴν πόλιν ὑμῶν, ἐν ᾗ μέλλετε κατοικεῖν, τί ὧδε ὑμεῖς ἑτοιμάζετε ἀγροὺς καὶ παρατάξεις πολυτελεῖς καὶ οἰκοδομὰς καὶ οἰκήματα μάταια;
+He said to me, You know that you, as the servants of God, are living in a strange country, for your city is far from this city. If then you know your city, in which you are going to dwell, why do you here prepare lands and costly establishments and buildings and vain dwellings?
+
+Q: which Greek god has a temple at Delphi?
+Q: is there a temple to Apollo at Delphi?
+Demosthenes, Against Aristogeiton I, tlg0014.tlg025
+θεωρεῖτε δὲ μὴ πρὸς τὸν ἐμὸν λόγον, ἀλλ’ εἰς ἅπαντα τὰ τῶν ἀνθρώπων ἔθη βλέποντες. εἰσὶ ταῖς πόλεσι πάσαις βωμοὶ καὶ νεῲ πάντων τῶν θεῶν, ἐν δὲ τούτοις καὶ Προνοίας Ἀθηνᾶς ὡς ἀγαθῆς καὶ μεγάλης θεοῦ, καὶ παρὰ τῷ Ἀπόλλωνι ἐν Δελφοῖς κάλλιστος καὶ μέγιστος νεὼς εὐθὺς εἰσιόντι εἰς τὸ ἱερόν, ὃς ὢν θεὸς καὶ μάντις οἶδε τὸ βέλτιστον· ἀλλ’ οὐκ ἀπονοίας οὐδ’ ἀναιδείας.
+In considering this question, look not at my speech, but at the general character of mankind. All our cities contain shrines and temples of all the gods, and among them is one of Athena, Our Lady of Forethought, worshipped as a beneficent and powerful goddess, and close to the temple of Apollo at Delphi, immediately as you enter the precincts, she has a large and beautiful temple. Apollo, a god and prophet both, knows what is best. But there is no temple of Recklessness or of Shamelessness.
+
+Q: which Greek god has a temple at Delphi?
+Q: is there a temple to Apollo at Delphi?
+Pausanias, Description of Greece, tlg0525.tlg001
+λέγεται δὲ ὁ Τροφώνιος Ἀπόλλωνος εἶναι καὶ οὐκ Ἐργίνου· καὶ ἐγώ τε πείθομαι καὶ ὅστις παρὰ Τροφώνιον ἦλθε δὴ μαντευσόμενος. τούτους φασίν, ὡς ηὐξήθησαν, γενέσθαι δεινοὺς θεοῖς τε ἱερὰ κατασκευάσασθαι καὶ βασίλεια ἀνθρώποις· καὶ γὰρ τῷ Ἀπόλλωνι τὸν ναὸν ᾠκοδόμησαν τὸν ἐν Δελφοῖς καὶ Ὑριεῖ τὸν θησαυρόν. ἐποίησαν δὲ ἐνταῦθα τῶν λίθων ἕνα εἶναί σφισιν ἀφαιρεῖν κατὰ τὸ ἐκτός· καὶ οἱ μὲν ἀεί τι ἀπὸ τῶν τιθεμένων ἐλάμβανον· Ὑριεὺς δὲ εἴχετο ἀφασίᾳ, κλεῖς μὲν καὶ σημεῖα τὰ ἄλλα ὁρῶν ἀκίνητα, τὸν δὲ ἀριθμὸν ἀεὶ τῶν χρημάτων ἐλάττονα.
+Trophonius is said to have been a son of Apollo, not of Erginus. This I am inclined to believe, as does everyone who has gone to Trophonius to inquire of his oracle. They say that these, when they grew up, proved clever at building sanctuaries for the gods and palaces for men. For they built the temple for Apollo at Delphi and the treasury for Hyrieus. One of the stones in it they made so that they could take it away from the outside. So they kept on removing something from the store. Hyrieus was dumbfounded when he saw keys and seals untampered with, while the treasure kept on getting less.
+
+Q: who founded the Acropolis in Athens
+Q: Are the Egyptians the oldest civilization?
+Anonymous, Excerpta Vaticana, tlg4037.tlg001
+Ἰστέον ὅτι ἀρχαιοτάτους ἀνθρώπων οἱ μὲν Αἰγυπτίους, οἱ δὲ Φρύγας φασίν, Ἑλλήνων δὲ ἀρχαιοτάτους Ἀθηναίους καὶ τοὺς πρὶν Πελασγούς, νῦν δὲ Ἀρκάδας, ἐν δὲ πόλεσι τήν τε Ἀθηναίων ἀκρόπολιν ὑπὸ Κέκροπος τοῦ αὐτόχθονος κτισθεῖσαν τοῦ διφυοῦς καὶ δευτέραν τὴν ὑπὸ Φορωνέως τοῦ Ἰνάχου κτισθεῖσαν, τρίτην δὲ ‹τὴν› Ἴτωνος ἐν Θεσσαλίᾳ ὑπὸ Δευκαλίωνος τοῦ Προμηθέως.
+One should know that some say that the Egyptians were the earliest people; others say the Phrygians, but that, of the Greeks, the oldest were the Athenians and the Pelasgians, who are now called Arcadians. Of the cities, they say that the Athenian Acropolis was founded by Cecrops, the dual-formed, autochthonous hero. The second oldest was the city founded by Phoroneus, son of Inachus, and third was Itonus in Thessaly, founded by Deucalion, son of Prometheus.
+
+Q: Are the Egyptians the oldest civilization?
+Herodotus, The Histories, tlg0016.tlg001
+ἤδη γάρ σφι τό γε Δέλτα, ὡς αὐτοὶ λέγουσι Αἰγύπτιοι καὶ ἐμοὶ δοκέει, ἐστὶ κατάρρυτόν τε καὶ νεωστὶ ὡς λόγῳ εἰπεῖν ἀναπεφηνός. εἰ τοίνυν σφι χώρη γε μηδεμία ὑπῆρχε, τί περιεργάζοντο δοκέοντες πρῶτοι ἀνθρώπων γεγονέναι; οὐδὲ ἔδει σφέας ἐς διάπειραν τῶν παιδίων ἰέναι, τίνα γλῶσσαν πρώτην ἀπήσουσι.
+for we have seen that (as the Egyptians themselves say, and as I myself judge) the Delta is alluvial land and but lately (so to speak) came into being. Then if there was once no land for them, it was an idle notion that they were the oldest nation on earth, and they need not have made that trial to see what language the children would first speak.
+
+Q: What crime was Socrates accused of?
+Q: Why was Socrates executed?
+Q: did Socrates corrupt the youth of Athens?
+Q: Socrates corrupted the young people of Athens
+Xenophon, Memorabilia, tlg0032.tlg002
+πολλάκις ἐθαύμασα τίσι ποτὲ λόγοις Ἀθηναίους ἔπεισαν οἱ γραψάμενοι Σωκράτην ὡς ἄξιος εἴη θανάτου τῇ πόλει. ἡ μὲν γὰρ γραφὴ κατ’ αὐτοῦ τοιάδε τις ἦν· ἀδικεῖ Σωκράτης οὓς μὲν ἡ πόλις νομίζει θεοὺς οὐ νομίζων, ἕτερα δὲ καινὰ δαιμόνια εἰσφέρων· ἀδικεῖ δὲ καὶ τοὺς νέους διαφθείρων.
+I have often wondered by what arguments those who drew up the indictment against Socrates could persuade the Athenians that his life was forfeit to the state. The indictment against him was to this effect: Socrates is guilty of rejecting the gods acknowledged by the state and of bringing in strange deities: he is also guilty of corrupting the youth.
+
+Q: did Socrates corrupt the youth of Athens?
+Q: Socrates corrupted the young people of Athens
+Xenophon, Memorabilia, tlg0032.tlg002
+θαυμαστὸν δὲ φαίνεταί μοι καὶ τὸ πεισθῆναί τινας ὡς Σωκράτης τοὺς νέους διέφθειρεν, ὃς πρὸς τοῖς εἰρημένοις πρῶτον μὲν ἀφροδισίων καὶ γαστρὸς πάντων ἀνθρώπων ἐγκρατέστατος ἦν, εἶτα πρὸς χειμῶνα καὶ θέρος καὶ πάντας πόνους καρτερικώτατος, ἔτι δὲ πρὸς τὸ μετρίων δεῖσθαι πεπαιδευμένος οὕτως, ὥστε πάνυ μικρὰ κεκτημένος πάνυ ῥᾳδίως ἔχειν ἀρκοῦντα. πῶς οὖν αὐτὸς ὢν τοιοῦτος ἄλλους ἂν ἢ ἀσεβεῖς ἢ παρανόμους ἢ λίχνους ἢ ἀφροδισίων ἀκρατεῖς ἢ πρὸς τὸ πονεῖν μαλακοὺς ἐποίησεν; ἀλλ’ ἔπαυσε μὲν τούτων πολλοὺς ἀρετῆς ποιήσας ἐπιθυμεῖν καὶ ἐλπίδας παρασχών, ἂν ἑαυτῶν ἐπιμελῶνται, καλοὺς κἀγαθοὺς ἔσεσθαι·
+No less wonderful is it to me that some believed the charge brought against Socrates of corrupting the youth. In the first place, apart from what I have said, in control of his own passions and appetites he was the strictest of men; further, in endurance of cold and heat and every kind of toil he was most resolute; and besides, his needs were so schooled to moderation that having very little he was yet very content. Such was his own character: how then can he have led others into impiety, crime, gluttony, lust, or sloth? On the contrary, he cured these vices in many, by putting into them a desire for goodness, and by giving them confidence that self-discipline would make them gentlemen.
+
+Q: definition of a law according to Pericles
+Xenophon, Memorabilia, tlg0032.tlg002
+εἰπέ μοι, φάναι, ὦ Περίκλεις, ἔχοις ἄν με διδάξαι τί ἐστι νόμος; πάντως δήπου, φάναι τὸν Περικλέα. δίδαξον δὴ πρὸς τῶν θεῶν, φάναι τὸν Ἀλκιβιάδην· ὡς ἐγὼ ἀκούων τινῶν ἐπαινουμένων, ὅτι νόμιμοι ἄνδρες εἰσίν, οἶμαι μὴ ἂν δικαίως τούτου τυχεῖν τοῦ ἐπαίνου τὸν μὴ εἰδότα τί ἐστι νόμος. ἀλλ’ οὐδέν τι χαλεποῦ πράγματος ἐπιθυμεῖς, ὦ Ἀλκιβιάδη, φάναι τὸν Περικλέα, βουλόμενος γνῶναι τί ἐστι νόμος· πάντες γὰρ οὗτοι νόμοι εἰσίν, οὓς τὸ πλῆθος συνελθὸν καὶ δοκιμάσαν ἔγραψε, φράζον ἅ τε δεῖ ποιεῖν καὶ ἃ μή. πότερον δὲ τἀγαθὰ νομίσαν δεῖν ποιεῖν ἢ τὰ κακά; τἀγαθὰ νὴ Δία, φάναι, ὦ μειράκιον, τὰ δὲ κακὰ οὔ.
+Tell me, Pericles, he said, can you teach me what a law is? Certainly, he replied. Then pray teach me. For whenever I hear men praised for keeping the laws, it occurs to me that no one can really deserve that praise who does not know what a law is. Well, Alcibiades, there is no great difficulty about what you desire. You wish to know what a law is. Laws are all the rules approved and enacted by the majority in assembly, whereby they declare what ought and what ought not to be done. Do they suppose it is right to do good or evil?Good, of course, young man, — not evil.
+
+Q: who was the lawgiver of Athens?
+Q: Was Solon a lawgiver of Athens?
+Isocrates, Antidosis, tlg0010.tlg019
+ἐκεῖνός τε γὰρ προστάτης τοῦ δήμου καταστὰς οὕτως ἐνομοθέτησε καὶ τὰ πράγματα διέταξε καὶ τὴν πόλιν κατεσκεύασεν, ὥστ’ ἔτι καὶ νῦν ἀγαπᾶσθαι τὴν διοίκησιν τὴν ὑπ’ ἐκείνου συνταχθεῖσαν· μετὰ δὲ ταῦτα Κλεισθένης ἐκπεσὼν ἐκ τῆς πόλεως ὑπὸ τῶν τυράννων, λόγῳ πείσας τοὺς Ἀμφικτύονας δανεῖσαι τῶν τοῦ θεοῦ χρημάτων αὑτῷ, τόν τε δῆμον κατήγαγε καὶ τοὺς τυράννους ἐξέβαλε καὶ τὴν δημοκρατίαν ἐκείνην κατέστησε, τὴν αἰτίαν τοῖς Ἕλλησι τῶν μεγίστων ἀγαθῶν γενομένην·
+First of all was Solon. For when he was placed at the head of the people, he gave them laws, set their affairs in order, and constituted the government of the city so wisely that even now Athens is well satisfied with the polity which was organized by him. Next, Cleisthenes, after he had been driven from Athens by the tyrants, succeeded by his eloquence in persuading the Amphictyons to lend him money from the treasury of Apollo, and thus restored the people to power, expelled the tyrants, and established that democracy to which the world of Hellas owes its greatest blessings.
+
+Q: who was the lawgiver of Athens?
+Xenophon, Memorabilia, tlg0032.tlg002
+λέγεται γὰρ Ἀλκιβιάδην, πρὶν εἴκοσιν ἐτῶν εἶναι, Περικλεῖ ἐπιτρόπῳ μὲν ὄντι αὐτοῦ, προστάτῃ δὲ τῆς πόλεως, τοιάδε διαλεχθῆναι περὶ νόμων·
+Indeed, there is a story told of Alcibiades, that, when he was less than twenty years old, he had a talk about laws with Pericles, his guardian, the first citizen in the State.
+
+Q: who was the lawgiver of Athens?
+Q: Was Solon a lawgiver of Athens?
+Demosthenes, Against Androtion, tlg0014.tlg022
+ἄξιον τοίνυν, ὦ ἄνδρες Ἀθηναῖοι, καὶ τὸν θέντα τὸν νόμον ἐξετάσαι Σόλωνα, καὶ θεάσασθαι ὅσην πρόνοιαν ἐποιεῖτο ἐν ἅπασιν οἷς ἐτίθει νόμοις τῆς πολιτείας, καὶ ὅσῳ περὶ τούτου μᾶλλον ἐσπούδαζεν ἢ περὶ τοῦ πράγματος οὗ τιθείη τὸν νόμον. πολλαχόθεν μὲν οὖν ἄν τις ἴδοι τοῦτο, οὐχ ἥκιστα δ’ ἐκ τούτου τοῦ νόμου, μήτε λέγειν μήτε γράφειν ἐξεῖναι τοῖς ἡταιρηκόσιν. ἑώρα γὰρ ἐκεῖνο, ὅτι τοῖς πολλοῖς ὑμῶν ἐξὸν λέγειν οὐ λέγετε, ὥστε τοῦτ’ οὐδὲν ἡγεῖτο βαρύ, καὶ πόλλ’ ἂν εἶχεν, εἴ γε κολάζειν ἐβούλετο τούτους, χαλεπώτερα θεῖναι.
+Now it is worth your while, men of Athens, to study too the character of Solon, who framed this law, and to observe what care he took of the constitution in all the laws, how much more zealous indeed he was for the constitution than for the matter on which he was legislating. This may be seen in many ways, but especially from this law, which forbids persons guilty of prostitution to make speeches or to propose measures. For he saw that the majority of you do not avail yourselves of your right to speak, so that the prohibition seemed no great hardship, and he could have laid down many harsher penalties, if his object had been the chastisement of these offenders.
+
+Q: who was the lawgiver of Athens?
+Q: Was Solon a lawgiver of Athens?
+Demosthenes, Against Eubulides, tlg0014.tlg057
+λαβὲ δὴ καὶ τὸν Ἀριστοφῶντος· οὕτω γάρ, ὦ ἄνδρες Ἀθηναῖοι, τοῦτον ἔδοξεν ἐκεῖνος καλῶς καὶ δημοτικῶς νομοθετῆσαι, ὥστ’ ἐψηφίσασθε πάλιν ἀνανεώσασθαι. ΝΟΜΟΣ. προσήκει τοίνυν ὑμῖν βοηθοῦσι τοῖς νόμοις μὴ τοὺς ἐργαζομένους ξένους νομίζειν, ἀλλὰ τοὺς συκοφαντοῦντας πονηρούς. ἐπεί, ὦ Εὐβουλίδη, ἔστι καὶ ἕτερος περὶ τῆς ἀργίας νόμος, ᾧ αὐτὸς ἔνοχος ὢν ἡμᾶς τοὺς ἐργαζομένους διαβάλλεις.
+(To the clerk.) Now take also the law of Aristophon; for, men of Athens, Solon was thought to have enacted in this instance so wise and democratic a law that you voted to re-enact it. The Law It is fitting that you, then, acting in defence of the laws, should hold, not that those who ply a trade are aliens, but that those who bring malicious and baseless suits are scoundrels. For, Eubulides, there is another law too regarding idleness to which you, who denounce us who are traders, are amenable.
+
+Q: was king Numa a friend of Pythagoras
+Plutarch, Numa, tlg0007.tlg005
+λεγομένου δὲ οὖν ὡς Νομᾶς γένοιτο Πυθαγόρου συνήθης, οἱ μὲν ὅλως ἀξιοῦσι μηδὲν Ἑλληνικῆς παιδεύσεως Νομᾷ μετεῖναι, καθάπερ ἢ φύσει δυνατὸν καὶ αὐτάρκη γενέσθαι πρὸς ἀρετὴν ἢ βελτίονι Πυθαγόρου βαρβάρῳ τινὶ τὴν τοῦ βασιλέως ἀποδοῦναι παίδευσιν οἱ δὲ Πυθαγόραν μὲν ὀψὲ γενέσθαι, τῶν Νομᾶ χρόνων ὁμοῦ τι πέντε γενεαῖς ἀπολειπόμενον,
+Accordingly, when it is said that Numa was an intimate friend of Pythagoras, some deny utterly that Numa had any Greek culture, holding either that he was naturally capable of attaining excellence by his own efforts, or that the culture of the king was due to some Barbarian superior to Pythagoras. Others say that Pythagoras the philosopher lived as many as five generations after Numa,
+
+Q: was king Numa a friend of Pythagoras
+Plutarch, Numa, tlg0007.tlg005
+ἐξ ὧν καὶ μάλιστα λόγον ἔσχεν ἡ σοφία καὶ ἡ παίδευσις τοῦ ἀνδρός, ὡς Πυθαγόρᾳ συγγεγονότος. μέγα γὰρ ἦν μέρος, ὡς ἐκείνῳ τῆς φιλοσοφίας, καὶ τούτῳ τῆς πολιτείας ἡ περὶ τὸ θεῖον ἁγιστεία καὶ διατριβή. λέγεται δὲ καὶ τὸν ἔξωθεν ὄγκον καὶ σχηματισμὸν ἀπὸ τῆς αὐτῆς Πυθαγόρᾳ διανοίας περιβαλέσθαι.
+This was the chief reason why Numa’s wisdom and culture were said to have been due to his intimacy with Pythagoras; for in the philosophy of the one, and in the civil polity of the other, religious services and occupations have a large place. It is said also that the solemnity of his outward demeanour was adopted by him because he shared the feelings of Pythagoras about it.
+
+Q: when was king Numa of the Romans born
+Q: Who founded the city of Rome?
+Plutarch, Numa, tlg0007.tlg005
+ἦν δὲ πόλεως μὲν ὁ Νομᾶς ἐπιφανοῦς ἐν Σαβίνοις τῆς Κύρεων, ἀφ’ ἧς καὶ Κυρίτας Ῥωμαῖοι σφᾶς αὐτοὺς ἅμα τοῖς ἀνακραθεῖσι Σαβίνοις προσηγόρευσαν, υἱὸς δὲ Πόμπωνος, ἀνδρὸς εὐδοκίμου, τεσσάρων ἀδελφῶν νεώτατος· ἡμέρᾳ δὲ γεγονὼς κατὰ δή τινα θείαν τύχην ἐν ᾗ τὴν Ῥώμην ἔκτισαν οἱ περὶ Ῥωμύλον αὕτη δὲ ἐστι πρὸ δεκαμιᾶς καλανδῶν Μαΐων.
+Numa belonged to a conspicuous city of the Sabines called Cures, from which the Romans, together with the incorporated Sabines, took the joint name of Quirites. He was a son of Pompon, an illustrious man, and was the youngest of four brothers. He was born, moreover, by some divine felicity, on the very day when Rome was founded by Romulus, that is, the twenty-first day of April.
+
+Q: who instituted the order of the Pontifices?
+Q: why were the high priests of Rome called Pontifices?
+Plutarch, Numa, tlg0007.tlg005
+Νομᾷ δὲ καὶ τὴν τῶν ἀρχιερέων, οὓς Ποντίφικας καλοῦσι, διάταξιν καὶ κατάστασιν ἀποδιδόασι, καί φασιν αὐτὸν ἕνα τούτων τὸν πρῶτον γεγονέναι. κεκλῆσθαι δὲ τοὺς Ποντίφικας οἱ μὲν ὅτι τοὺς θεοὺς θεραπεύουσι δυνατοὺς καὶ κυρίους ἁπάντων ὄντας· ὁ γάρ δυνατὸς ὑπὸ Ῥωμαίων ὀνομάζεται πότηνς· ἕτεροι δέ φασι πρὸς ὑπεξαίρεσιν γεγονέναι τοὔνομα τῶν δυνατῶν, ὡς τοῦ νομοθέτου τὰς δυνατὰς ἐπιτελεῖν ἱερουργίας τοὺς ἱερεῖς κελεύοντος, ἂν δὲ ᾖ τι κώλυμα μεῖζον, οὐ συκοφαντοῦντος. οἱ δὲ πλεῖστοι μάλιστα καὶ τὸ γελώμενον τῶν ὀνομάτων δοκιμάζουσιν, ὡς οὐδὲν ἀλλ’ ἢ γεφυροποιοὺς τοὺς ἄνδρας ἐπικληθέντας ἀπὸ τῶν ποιουμένων περὶ τὴν γέφυραν ἱερῶν, ἁγιωτάτων καὶ παλαιοτάτων ὄντων πόντεμ γάρ οἱ Λατῖνοι τὴν γέφυραν ὀνομάζουσιν.
+To Numa is also ascribed the institution of that order of high priests who are called Pontifices, and he himself is said to have been the first of them. According to some they are called Pontifices because employed in the service of the gods, who are powerful and supreme over all the world; and potens is the Roman word for powerful. Others say that the name was meant to distinguish between possible and impossible functions; the lawgiver enjoining upon these priests the performance of such sacred offices only as were possible, and finding no fault with them if any serious obstacle prevented. But most writers give an absurd explanation of the name; Pontifices means, they say, nothing more nor less than bridge-builders, from the sacrifices which they performed at the bridge over the Tiber, sacrifices of the greatest antiquity and the most sacred character; for pons is the Latin word for bridge.
+
+Q: creation of the world by God in the beginning
+Q: God said let there be light and there was light
+Septuagint, Genesis, tlg0527.tlg001
+ΕΝ ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν. ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα Θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος. καὶ εἶπεν ὁ Θεός· γενηθήτω φῶς· καὶ ἐγένετο φῶς. καὶ εἶδεν ὁ Θεὸς τὸ φῶς, ὅτι καλόν· καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους. καὶ ἐκάλεσεν ὁ Θεὸς τὸ φῶς ἡμέραν καὶ τὸ σκότος ἐκάλεσε νύκτα. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωΐ, ἡμέρα μία. Καὶ εἶπεν ὁ Θεός· γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος. καὶ ἐγένετο οὕτως. καὶ ἐποίησεν ὁ Θεὸς τὸ στερέωμα, καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ ὕδατος, ὃ ἦν ὑποκάτω τοῦ στερεώματος, καὶ ἀναμέσον τοῦ ὕδατος τοῦ ἐπάνω τοῦ στερεώματος. καὶ ἐκάλεσεν ὁ Θεὸς τὸ στερέωμα οὐρανόν. καὶ εἶδεν ὁ Θεός, ὅτι καλόν, καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωΐ, ἡμέρα δευτέρα. Καὶ εἶπεν ὁ Θεός· συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά. καὶ ἐγένετο οὕτως. καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν, καὶ ὤφθη ἡ ξηρά. καὶ ἐκάλεσεν ὁ Θεὸς τὴν ξηρὰν γῆν καὶ τὰ συστήματα τῶν ὑδάτων ἐκάλεσε θαλάσσας. καὶ εἶδεν ὁ Θεός, ὅτι καλόν.
+In the beginning God made the heaven and the earth. But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water. And God said, Let there be light, and there was light. And God saw the light that it was good, and God divided between the light and the darkness. And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day. And God said, Let there be a firmament in the midst of the water, and let it be a division between water and water, and it was so. And God made the firmament, and God divided between the water which was under the firmament and the water which was above the firmament. And God called the firmament Heaven, and God saw that it was good, and there was evening and there was morning, the second day. And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared. And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
+
+Q: creation of the world by God in the beginning
+Shepherd of Hermas, The Shepherd of Hermas, tlg1419.tlg001
+Πρῶτον πάντων πίστευσον, ὅτι εἷς ἐστὶν ὁ θεός, ὁ τὰ πάντα κτίσας καὶ καταρτίσας καὶ ποιήσας ἐκ τοῦ μὴ ὄντος εἰς τὸ εἶναι τὰ πάντα καὶ πάντα χωρῶν, μόνος δὲ ἀχώρητος ὤν.
+First of all believe that God is one, who made all things and perfected them, and made all things to be out of that which was not, and contains all things, and is himself alone uncontained.
+
+Q: creation of the world by God in the beginning
+Clement of Rome, The First Epistle of Clement to the Corinthians, tlg1271.tlg001
+Σὺ γὰρ τὴν ἀέναον τοῦ κόσμου σύστασιν διὰ τῶν ἐνεργουμένων ἐφανεροποίησας: σύ, κύριε, τὴν οἰκουμένην ἔκτισας, ὁ πιστὸς ἐν πάσαις ταῖς γενεαῖς, δίκαιος ἐν τοῖς κρίμασιν, θαυμαστὸς ἐν ἰσχύϊ καὶ μεγαλοπρεπείᾳ, ὁ σοφὸς ἐν τῷ κτίζειν καὶ συνετὸς ἐν τῷ τὰ γενόμενα ἑδράσαι, ὁ ἀγαθὸς ἐν τοῖς ὁρωμένοις καὶ χρηστὸς ἐν τοῖς πεποιθόσιν ἐπὶ σέ, ἐλεῆμον καὶ οἰκτίρμον, ἄφες ἡμῖν τὰς ἀνομίας ἡμῶν καὶ τὰς ἀδικίας καὶ τὰ παραπτώματα καὶ πλημμελείας.
+For thou through thy operations didst make manifest the eternal fabric of the world; thou, Lord, didst create the earth. Thou that art faithful in all generations, righteous in judgment, wonderful in strength and majesty, wise in thy creation, and prudent in establishing thy works, good in the things which are seen, and gracious among those that trust in thee, O merciful and compassionate, forgive us our iniquities and unrighteousness, and transgressions, and short-comings.
+
+Q: in how many days did God create the world
+Q: God rested on the seventh day
+Septuagint, Genesis, tlg0527.tlg001
+ΚΑΙ συνετελέσθησαν ὁ οὐρανὸς καὶ ἡ γῆ καὶ πᾶς ὁ κόσμος αὐτῶν. καὶ συνετέλεσεν ὁ Θεὸς ἐν τῇ ἡμέρᾳ τῇ ἕκτῃ τὰ ἔργα αὐτοῦ, ἃ ἐποίησε, καὶ κατέπαυσε τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ, ὧν ἐποίησε. καὶ εὐλόγησεν ὁ Θεὸς τὴν ἡμέραν τὴν ἑβδόμην καὶ ἡγίασεν αὐτήν· ὅτι ἐν αὐτῇ κατέπαυσεν ἀπὸ πάντων τῶν ἔργων αὐτοῦ, ὧν ἤρξατο ὁ Θεὸς ποιῆσαι. Αὕτη ἡ βίβλος γενέσεως οὐρανοῦ καὶ γῆς, ὅτε ἐγένετο· ᾗ ἡμέρᾳ ἐποίησε Κύριος ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν καὶ πᾶν χλωρὸν ἀγροῦ πρὸ τοῦ γενέσθαι ἐπὶ τῆς γῆς καὶ πάντα χόρτον ἀγροῦ πρὸ τοῦ ἀνατεῖλαι· οὐ γὰρ ἔβρεξεν ὁ Θεὸς ἐπὶ τὴν γῆν, καὶ ἄνθρωπος οὐκ ἦν ἐργάζεσθαι αὐτήν· πηγὴ δὲ ἀνέβαινεν ἐκ τῆς γῆς καὶ ἐπότιζε πᾶν τὸ πρόσωπον τῆς γῆς. καὶ ἔπλασεν ὁ Θεὸς τὸν ἄνθρωπον, χοῦν ἀπὸ τῆς γῆς, καὶ ἐνεφύσησεν εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς, καὶ ἐγένετο ὁ ἄνθρωπος εἰς ψυχὴν ζῶσαν. Καὶ ἐφύτευσεν ὁ Θεὸς παράδεισον ἐν ᾿Εδὲμ κατὰ ἀνατολὰς καὶ ἔθετο ἐκεῖ τὸν ἄνθρωπον, ὃν ἔπλασε. καὶ ἐξανέτειλεν ὁ Θεὸς ἔτι ἐκ τῆς γῆς πᾶν ξύλον ὡραῖον εἰς ὅρασιν καὶ καλὸν εἰς βρῶσιν καὶ τὸ ξύλον τῆς ζωῆς ἐν μέσῳ τοῦ παραδείσου καὶ τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ. ποταμὸς δὲ ἐκπορεύεται ἐξ ᾿Εδὲμ ποτίζειν τὸν παράδεισον· ἐκεῖθεν ἀφορίζεται εἰς τέσσαρας ἀρχάς.
+And the heavens and the earth were finished, and the whole world of them. And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made. And God blessed the seventh day and sanctified it, because in it he ceased from all his works which God began to do. This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth, and every herb of the field before it was on the earth, and all the grass of the field before it sprang up, for God had not rained on the earth, and there was not a man to cultivate it. But there rose a fountain out of the earth, and watered the whole face of the earth. And God formed the man [of] dust of the earth, and breathed upon his face the breath of life, and the man became a living soul. And God planted a garden eastward in Eden, and placed there the man whom he had formed. And God made to spring up also out of the earth every tree beautiful to the eye and good for food, and the tree of life in the midst of the garden, and the tree of learning the knowledge of good and evil. And a river proceeds out of Eden to water the garden, thence it divides itself into four heads.
+
+Q: in how many days did God create the world
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+προσέχετε, τέκνα, τί λέγει τὸ συνετέλεσεν ἐν ἓξ ἡμέραις. τοῦτο λέγει, ὅτι ἐν ἑξακισχιλίοις ἔτεσιν συντελέσει κύριος τὰ σύμπαντα· ἡ γὰρ ἡμέρα παρ’ αὐτῷ σημαίνει χίλια ἔτη. αὐτὸς δέ μοι μαρτυρεῖ λέγων· Ἰδού, ἡμέρα κυρίου ἔσται ὡς χίλια ἔτη. οὐκοῦν, τέκνα, ἐν ἓξ ἡμέραις, ἐν τοῖς ἑξακισχιλίοις ἔτεσιν συντελεσθήσεται τὰ σύμπαντα.
+Notice, children, what is the meaning of He made an end in six days? He means this: that the Lord will make an end of everything in six thousand years, for a day with him means a thousand years. And he himself is my witness when he says, Lo, the day of the Lord shall be as a thousand years. So then, children, in six days, that is in six thousand years, everything will be completed.
+
+Q: in how many days did God create the world
+Q: God rested on the seventh day
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+τὸ σάββατον λέγει ἐν ἀρχῇ τῆς κτίσεως· Καὶ ἐποίησεν ὁ θεὸς ἐν ἓξ ἡμέραις τὰ ἔργα τῶν χειρῶν αὐτοῦ, καὶ συνετέλεσεν ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ καὶ κατέπαυσεν ἐν αὐτῇ καὶ ἡγίασεν αὐτήν.
+He speaks of the Sabbath at the beginning of the Creation, And God made in six days the works of his hands and on the seventh day he made an end, and rested in it and sanctified it.
+
+Q: God rested on the seventh day
+Epistle of Barnabus, The Epistle of Barnabas, tlg1216.tlg001
+Καὶ κατέπαυσεν τῇ ἡμέρᾳ τῇ ἑβδόμῃ. τοῦτο λέγει· ὅταν ἐλθὼν ὁ υἱὸς αὐτοῦ καταργήσει τὸν καιρὸν τοῦ ἀνόμου καὶ κρινεῖ τοὺς ἀσεβεῖς καὶ ἀλλάξει τὸν ἥλιον καὶ τὴν σελήνην καὶ τοὺς ἀστέρας, τότε καλῶς καταπαύσεται ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ.
+And he rested on the seventh day. This means, when his Son comes he will destroy the time of the wicked one, and will judge the godless, and will change the sun and the moon and the stars, and then he will truly rest on the seventh day.
+
+Q: Zeus the greatest of all the gods
+, Hymn 23 to Zeus, tlg0013.tlg023
+Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον, εὐρύοπα, κρείοντα, τελεσφόρον, ὅστε Θέμιστι ἐγκλιδὸν ἑζομένῃ πυκινοὺς ὀάρους ὀαρίζει. ἵληθ’, εὐρύοπα Κρονίδη, κύδιστε μέγιστε.
+I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him. Be gracious, all-seeing Son of Cronos, most excellent and great!
+
+Q: Zeus the greatest of all the gods
+Sophocles, Oedipus at Colonus, tlg0011.tlg007
+ἰὼ θεῶν πάνταρχε, παντ- όπτα Ζεῦ, πόροις γᾶς τᾶσδε δαμούχοις σθένει ’πινικείῳ τὸν εὔαγρον τελειῶσαι λόχον, σεμνά τε παῖς Παλλὰς Ἀθάνα. καὶ τὸν ἀγρευτὰν Ἀπόλλω καὶ κασιγνήταν πυκνοστίκτων ὀπαδὸν ὠκυπόδων ἐλάφων στέργω διπλᾶς ἀρωγὰς μολεῖν γᾷ τᾷδε καὶ πολίταις. ὦ ξεῖν’ ἀλῆτα, τῷ σκοπῷ μὲν οὐκ ἐρεῖς ὡς ψευδόμαντις· τὰς κόρας γὰρ εἰσορῶ τάσδ’ ἆσσον αὖθις ὧδε προσπολουμένας.
+Hear, all-ruling lord of the gods, all-seeing Zeus! Grant to the guardians of this land to achieve with triumphant might the capture that gives the prize into their hands! And may your daughter grant it too, dread Pallas Athena! And Apollo, the hunter, and his sister, who follows the spotted, swift-footed deer—I wish that they would come, a double help to this land and to its people.
+
+Q: how did Laomedon build the walls of Troy?
+Q: did Apollo and Poseidon build the walls of Troy?
+Anonymous, Excerpta Vaticana, tlg4037.tlg001
+Ὅτι τὸν Ἀπόλλωνα καὶ τὸν Ποσειδῶνα λέγουσι τειχίσαι τὴν Ἴλιον. τὸ δὲ οὐχ οὕτως ἔχει, ἀλλ’ ὁ Λαομέδων ἐτείχισε τὴν πόλιν οὐχ ὁσίως. ἦν δὲ ἐν τῇ ἀκροπόλει ἱερὸν Ἀπόλλωνος καὶ Ποσειδῶνος διαφερόντως τιμώμενον, ὅθεν συλῶν ἀνήλισκε τὰ χρήματα εἰς τὴν τοῦ τείχους κατασκευήν.
+Apollo and Poseidon are said to have built the walls of Troy. But this is not so: rather, Laomedon built the city in an impious way. There was an exceptionally revered temple of Apollo and Poseidon on the acropolis; he plundered it and spent the money on building the walls.
+
+Q: did Narcissus fall in love with his reflection
+Q: did Narcissus know he was looking at his own reflection in the water
+Pausanias, Description of Greece, tlg0525.tlg001
+ἐπὶ δὲ ἄκρᾳ τῇ κορυφῇ τοῦ Ἑλικῶνος ποταμὸς οὐ μέγας ἐστὶν ὁ Λάμος. Θεσπιέων δὲ ἐν τῇ γῇ Δονακών ἐστιν ὀνομαζόμενος· ἐνταῦθά ἐστι Ναρκίσσου πηγή, καὶ τὸν Νάρκισσον ἰδεῖν ἐς τοῦτο τὸ ὕδωρ φασίν, οὐ συνέντα δὲ ὅτι ἑώρα σκιὰν τὴν ἑαυτοῦ λαθεῖν τε αὐτὸν ἐρασθέντα αὑτοῦ καὶ ὑπὸ τοῦ ἔρωτος ἐπὶ τῇ πηγῇ οἱ συμβῆναι τὴν τελευτήν. τοῦτο μὲν δὴ παντάπασιν εὔηθες, ἡλικίας ἤδη τινὰ ἐς τοσοῦτο ἥκοντα ὡς ὑπὸ ἔρωτος ἁλίσκεσθαι μηδὲ ὁποῖόν τι ἄνθρωπος καὶ ὁποῖόν τι ἀνθρώπου σκιὰ διαγνῶναι·
+On the summit of Helicon is a small river called the Lamus. In the territory of the Thespians is a place called Donacon (Reed-bed). Here is the spring of Narcissus. They say that Narcissus looked into this water, and not understanding that he saw his own reflection, unconsciously fell in love with himself, and died of love at the spring. But it is utter stupidity to imagine that a man old enough to fall in love was incapable of distinguishing a man from a man's reflection.
+
+Q: did Narcissus fall in love with his reflection
+Q: did Narcissus know he was looking at his own reflection in the water
+Pausanias, Description of Greece, tlg0525.tlg001
+ἔχει δὲ καὶ ἕτερος ἐς αὐτὸν λόγος, ἧσσον μὲν τοῦ προτέρου γνώριμος, λεγόμενος δὲ καὶ οὗτος, ἀδελφὴν γενέσθαι Ναρκίσσῳ δίδυμον, τά τε ἄλλα ἐς ἅπαν ὅμοιον τὸ εἶδος καὶ ἀμφοτέροις ὡσαύτως κόμην εἶναι καὶ ἐσθῆτα ἐοικυῖαν αὐτοὺς ἐνδύεσθαι καὶ δὴ καὶ ἐπὶ θήραν ἰέναι μετὰ ἀλλήλων· Νάρκισσον δὲ ἐρασθῆναι τῆς ἀδελφῆς, καὶ ὡς ἀπέθανεν ἡ παῖς, φοιτῶντα ἐπὶ τὴν πηγὴν συνιέναι μὲν ὅτι τὴν ἑαυτοῦ σκιὰν ἑώρα, εἶναι δέ οἱ καὶ συνιέντι ῥᾳστώνην τοῦ ἔρωτος ἅτε οὐχ ἑαυτοῦ σκιὰν δοξάζοντι ἀλλὰ εἰκόνα ὁρᾶν τῆς ἀδελφῆς.
+There is another story about Narcissus, less popular indeed than the other, but not without some support. It is said that Narcissus had a twin sister; they were exactly alike in appearance, their hair was the same, they wore similar clothes, and went hunting together. The story goes on that Narcissus fell in love with his sister, and when the girl died, would go to the spring, knowing that it was his reflection that he saw, but in spite of this knowledge finding some relief for his love in imagining that he saw, not his own reflection, but the likeness of his sister.
